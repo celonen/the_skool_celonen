@@ -1,0 +1,40 @@
+SET PAGESIZE 1500
+DESC system.results_col3;
+
+
+SELECT
+	UTBILDNINGSOMRADE AS educationarea,
+	SUN5_INRIKTNING_NAMN AS specialization,
+	UTBILDNINGSNAMN AS education,
+	UTBILDNINGSANORDNARE_ADMINISTR AS education_provider,
+	HUVUDMANNATYP AS type,
+	LAN AS county,
+	KOMMUN AS municipality,
+	STUDIEFORM AS studyform,
+	BEVILJADE_UTBILDNINGSOMGANGAR AS approved_starts,
+	COUNT(*) AS applications,
+	SUM(CASE WHEN Beslut = 'Beviljad'
+		THEN 1 ELSE 0 END) AS approved,
+	SUM(CASE WHEN Beslut = 'Avslag'
+		THEN 1 ELSE 0 END) AS rejected,
+	ROUND(
+	100 * SUM(CASE WHEN Beslut = 'Beviljad'
+		THEN 1 ELSE 0 END) / COUNT(*), 2
+	) AS approvals_percentages
+FROM results_col3
+WHERE (SUN5_INRIKTNING = '481ae'
+	OR SUN5_INRIKTNING LIKE '%481ab%')
+GROUP BY
+	UTBILDNINGSOMRADE,
+	SUN5_INRIKTNING_NAMN,
+	UTBILDNINGSNAMN,
+	UTBILDNINGSANORDNARE_ADMINISTR,
+	HUVUDMANNATYP,
+	LAN,
+	KOMMUN,
+	STUDIEFORM,
+	BEVILJADE_UTBILDNINGSOMGANGAR
+ORDER BY approved_starts DESC, approvals_percentages DESC;
+
+
+EXIT
