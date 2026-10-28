@@ -1,0 +1,12 @@
+SET PAGESIZE 1500
+DESC system.results_col3;
+
+SELECT UTBILDNINGSOMRADE AS educationarea,
+        SUM(SOKTA_PLATSER_TOTALT) AS applications
+FROM results_col3
+GROUP BY UTBILDNINGSOMRADE
+ORDER BY applications DESC;
+
+
+EXIT
+
