@@ -1,0 +1,2001 @@
+SUN5_ID,SUN5_INRIKTNING,UTBILDNINGSOMRADE_ID,SUN5_INRIKTNING_NAMN
+1,481ab,1,"Utbildningar till programmerare, spel"
+2,481ab,2,"Utbildningar till programmerare, spel"
+3,481ab,3,"Utbildningar till programmerare, spel"
+4,481ab,4,"Utbildningar till programmerare, spel"
+5,481ab,5,"Utbildningar till programmerare, spel"
+6,481ab,6,"Utbildningar till programmerare, spel"
+7,481ac,7,Utbildningar inom systemhantering och programmering
+8,481ac,8,Utbildningar inom systemhantering och programmering
+9,481ac,9,Utbildningar inom systemhantering och programmering
+10,481ac,10,Utbildningar inom systemhantering och programmering
+11,481ac,11,Utbildningar inom systemhantering och programmering
+12,481ac,12,Utbildningar inom systemhantering och programmering
+13,481ac,13,Utbildningar inom systemhantering och programmering
+14,481ac,14,Utbildningar inom systemhantering och programmering
+15,481ac,15,Utbildningar inom systemhantering och programmering
+16,481ac,16,Utbildningar inom systemhantering och programmering
+17,481ac,17,Utbildningar inom systemhantering och programmering
+18,481ac,18,Utbildningar inom systemhantering och programmering
+19,481ac,19,Utbildningar inom systemhantering och programmering
+20,481ac,20,Utbildningar inom systemhantering och programmering
+21,481ac,21,Utbildningar inom systemhantering och programmering
+22,481ac,22,Utbildningar inom systemhantering och programmering
+23,481ac,23,Utbildningar inom systemhantering och programmering
+24,481ac,24,Utbildningar inom systemhantering och programmering
+25,481ac,25,Utbildningar inom systemhantering och programmering
+26,481ac,26,Utbildningar inom systemhantering och programmering
+27,481ac,27,Utbildningar inom systemhantering och programmering
+28,481ac,28,Utbildningar inom systemhantering och programmering
+29,481ac,29,Utbildningar inom systemhantering och programmering
+30,481ac,30,Utbildningar inom systemhantering och programmering
+31,481ac,31,Utbildningar inom systemhantering och programmering
+32,481ac,32,Utbildningar inom systemhantering och programmering
+33,481ac,33,Utbildningar inom systemhantering och programmering
+34,481ac,34,Utbildningar inom systemhantering och programmering
+35,481ac,35,Utbildningar inom systemhantering och programmering
+36,481ac,36,Utbildningar inom systemhantering och programmering
+37,481ac,37,Utbildningar inom systemhantering och programmering
+38,481ac,38,Utbildningar inom systemhantering och programmering
+39,481ac,39,Utbildningar inom systemhantering och programmering
+40,481ac,40,Utbildningar inom systemhantering och programmering
+41,481ac,41,Utbildningar inom systemhantering och programmering
+42,481ac,42,Utbildningar inom systemhantering och programmering
+43,481ac,43,Utbildningar inom systemhantering och programmering
+44,481ac,44,Utbildningar inom systemhantering och programmering
+45,481ac,45,Utbildningar inom systemhantering och programmering
+46,481ac,46,Utbildningar inom systemhantering och programmering
+47,481ac,47,Utbildningar inom systemhantering och programmering
+48,481ad,48,Utbildningar inom inbyggda system och sakernas internet
+49,481ad,49,Utbildningar inom inbyggda system och sakernas internet
+50,481ad,50,Utbildningar inom inbyggda system och sakernas internet
+51,481ad,51,Utbildningar inom inbyggda system och sakernas internet
+52,481ad,52,Utbildningar inom inbyggda system och sakernas internet
+53,481ad,53,Utbildningar inom inbyggda system och sakernas internet
+54,481ad,54,Utbildningar inom inbyggda system och sakernas internet
+55,481ad,55,Utbildningar inom inbyggda system och sakernas internet
+56,481ad,56,Utbildningar inom inbyggda system och sakernas internet
+57,481ad,57,Utbildningar inom inbyggda system och sakernas internet
+58,481ae,58,Utbildningar till databasutvecklare
+59,481ae,59,Utbildningar till databasutvecklare
+60,481af,60,Utbildningar till webbutvecklare
+61,481af,61,Utbildningar till webbutvecklare
+62,481af,62,Utbildningar till webbutvecklare
+63,481af,63,Utbildningar till webbutvecklare
+64,481af,64,Utbildningar till webbutvecklare
+65,481af,65,Utbildningar till webbutvecklare
+66,481af,66,Utbildningar till webbutvecklare
+67,481af,67,Utbildningar till webbutvecklare
+68,481af,68,Utbildningar till webbutvecklare
+69,481af,69,Utbildningar till webbutvecklare
+70,481af,70,Utbildningar till webbutvecklare
+71,481af,71,Utbildningar till webbutvecklare
+72,481af,72,Utbildningar till webbutvecklare
+73,481af,73,Utbildningar till webbutvecklare
+74,481af,74,Utbildningar till webbutvecklare
+75,481af,75,Utbildningar till webbutvecklare
+76,481af,76,Utbildningar till webbutvecklare
+77,481af,77,Utbildningar till webbutvecklare
+78,481af,78,Utbildningar till webbutvecklare
+79,481af,79,Utbildningar till webbutvecklare
+80,481af,80,Utbildningar till webbutvecklare
+81,481af,81,Utbildningar till webbutvecklare
+82,481af,82,Utbildningar till webbutvecklare
+83,481af,83,Utbildningar till webbutvecklare
+84,481af,84,Utbildningar till webbutvecklare
+85,481af,85,Utbildningar till webbutvecklare
+86,481af,86,Utbildningar till webbutvecklare
+87,481af,87,Utbildningar till webbutvecklare
+88,481af,88,Utbildningar till webbutvecklare
+89,481af,89,Utbildningar till webbutvecklare
+90,481af,90,Utbildningar till webbutvecklare
+91,481af,91,Utbildningar till webbutvecklare
+92,481ag,92,Utbildningar till mjukvarutestare
+93,481ag,93,Utbildningar till mjukvarutestare
+94,481ag,94,Utbildningar till mjukvarutestare
+95,481ag,95,Utbildningar till mjukvarutestare
+96,481ag,96,Utbildningar till mjukvarutestare
+97,481ag,97,Utbildningar till mjukvarutestare
+98,481ag,98,Utbildningar till mjukvarutestare
+99,481ag,99,Utbildningar till mjukvarutestare
+100,481ag,100,Utbildningar till mjukvarutestare
+101,481ay,101,Övriga utbildningar systemutveckling och programmering
+102,481ay,102,Övriga utbildningar systemutveckling och programmering
+103,481ay,103,Övriga utbildningar systemutveckling och programmering
+104,481ay,104,Övriga utbildningar systemutveckling och programmering
+105,481ay,105,Övriga utbildningar systemutveckling och programmering
+106,481ay,106,Övriga utbildningar systemutveckling och programmering
+107,481ay,107,Övriga utbildningar systemutveckling och programmering
+108,481ay,108,Övriga utbildningar systemutveckling och programmering
+109,481ay,109,Övriga utbildningar systemutveckling och programmering
+110,481ay,110,Övriga utbildningar systemutveckling och programmering
+111,481xd,111,Utbildningar till systemadministratörer
+112,481xd,112,Utbildningar till systemadministratörer
+113,481xd,113,Utbildningar till systemadministratörer
+114,481xd,114,Utbildningar till systemadministratörer
+115,481xd,115,Utbildningar till systemadministratörer
+116,481xe,116,Utbildningar inom dataanalys och datavetenskap
+117,481xe,117,Utbildningar inom dataanalys och datavetenskap
+118,481xe,118,Utbildningar inom dataanalys och datavetenskap
+119,481xe,119,Utbildningar inom dataanalys och datavetenskap
+120,481xe,120,Utbildningar inom dataanalys och datavetenskap
+121,481xe,121,Utbildningar inom dataanalys och datavetenskap
+122,481xe,122,Utbildningar inom dataanalys och datavetenskap
+123,481xe,123,Utbildningar inom dataanalys och datavetenskap
+124,481xe,124,Utbildningar inom dataanalys och datavetenskap
+125,481xe,125,Utbildningar inom dataanalys och datavetenskap
+126,481xe,126,Utbildningar inom dataanalys och datavetenskap
+127,481xe,127,Utbildningar inom dataanalys och datavetenskap
+128,481xe,128,Utbildningar inom dataanalys och datavetenskap
+129,481xe,129,Utbildningar inom dataanalys och datavetenskap
+130,481xe,130,Utbildningar inom dataanalys och datavetenskap
+131,481xe,131,Utbildningar inom dataanalys och datavetenskap
+132,481xe,132,Utbildningar inom dataanalys och datavetenskap
+133,481xe,133,Utbildningar inom dataanalys och datavetenskap
+134,481xe,134,Utbildningar inom dataanalys och datavetenskap
+135,481xe,135,Utbildningar inom dataanalys och datavetenskap
+136,481xe,136,Utbildningar inom dataanalys och datavetenskap
+137,481xe,137,Utbildningar inom dataanalys och datavetenskap
+138,481xe,138,Utbildningar inom dataanalys och datavetenskap
+139,481xe,139,Utbildningar inom dataanalys och datavetenskap
+140,481xe,140,Utbildningar inom dataanalys och datavetenskap
+141,481xe,141,Utbildningar inom dataanalys och datavetenskap
+142,481xe,142,Utbildningar inom dataanalys och datavetenskap
+143,481xe,143,Utbildningar inom dataanalys och datavetenskap
+144,481xe,144,Utbildningar inom dataanalys och datavetenskap
+145,481xe,145,Utbildningar inom dataanalys och datavetenskap
+146,481xe,146,Utbildningar inom dataanalys och datavetenskap
+147,481xe,147,Utbildningar inom dataanalys och datavetenskap
+148,481xe,148,Utbildningar inom dataanalys och datavetenskap
+149,481xe,149,Utbildningar inom dataanalys och datavetenskap
+150,481xf,150,Utbildningar inom IT-säkerhet
+151,481xf,151,Utbildningar inom IT-säkerhet
+152,481xf,152,Utbildningar inom IT-säkerhet
+153,481xf,153,Utbildningar inom IT-säkerhet
+154,481xf,154,Utbildningar inom IT-säkerhet
+155,481xf,155,Utbildningar inom IT-säkerhet
+156,481xf,156,Utbildningar inom IT-säkerhet
+157,481xf,157,Utbildningar inom IT-säkerhet
+158,481xf,158,Utbildningar inom IT-säkerhet
+159,481xf,159,Utbildningar inom IT-säkerhet
+160,481xf,160,Utbildningar inom IT-säkerhet
+161,481xf,161,Utbildningar inom IT-säkerhet
+162,481xf,162,Utbildningar inom IT-säkerhet
+163,481xf,163,Utbildningar inom IT-säkerhet
+164,481xf,164,Utbildningar inom IT-säkerhet
+165,481xf,165,Utbildningar inom IT-säkerhet
+166,481xf,166,Utbildningar inom IT-säkerhet
+167,481xf,167,Utbildningar inom IT-säkerhet
+168,481xf,168,Utbildningar inom IT-säkerhet
+169,481xf,169,Utbildningar inom IT-säkerhet
+170,481xf,170,Utbildningar inom IT-säkerhet
+171,481xf,171,Utbildningar inom IT-säkerhet
+172,481xf,172,Utbildningar inom IT-säkerhet
+173,481xf,173,Utbildningar inom IT-säkerhet
+174,481xf,174,Utbildningar inom IT-säkerhet
+175,481xf,175,Utbildningar inom IT-säkerhet
+176,481xf,176,Utbildningar inom IT-säkerhet
+177,481xf,177,Utbildningar inom IT-säkerhet
+178,481xf,178,Utbildningar inom IT-säkerhet
+179,481xf,179,Utbildningar inom IT-säkerhet
+180,481xf,180,Utbildningar inom IT-säkerhet
+181,481xf,181,Utbildningar inom IT-säkerhet
+182,481xf,182,Utbildningar inom IT-säkerhet
+183,481xu,183,Utbildningar till projektledare IT
+184,481xu,184,Utbildningar till projektledare IT
+185,481xu,185,Utbildningar till projektledare IT
+186,481xu,186,Utbildningar till projektledare IT
+187,481xu,187,Utbildningar till projektledare IT
+188,481xu,188,Utbildningar till projektledare IT
+189,481xu,189,Utbildningar till projektledare IT
+190,481xu,190,Utbildningar till projektledare IT
+191,481xu,191,Utbildningar till projektledare IT
+192,481xu,192,Utbildningar till projektledare IT
+193,481xu,193,Utbildningar till projektledare IT
+194,481xu,194,Utbildningar till projektledare IT
+195,481xy,195,Övriga utbildningar datavetenskap och systemvetenskap
+196,489zd,196,Utbildningar till IT-infrastukturtekniker
+197,489zd,197,Utbildningar till IT-infrastukturtekniker
+198,489zd,198,Utbildningar till IT-infrastukturtekniker
+199,489zd,199,Utbildningar till IT-infrastukturtekniker
+200,489zd,200,Utbildningar till IT-infrastukturtekniker
+201,489zd,201,Utbildningar till IT-infrastukturtekniker
+202,489zd,202,Utbildningar till IT-infrastukturtekniker
+203,489zd,203,Utbildningar till IT-infrastukturtekniker
+204,489zd,204,Utbildningar till IT-infrastukturtekniker
+205,489zd,205,Utbildningar till IT-infrastukturtekniker
+206,489zd,206,Utbildningar till IT-infrastukturtekniker
+207,489zd,207,Utbildningar till IT-infrastukturtekniker
+208,489zd,208,Utbildningar till IT-infrastukturtekniker
+209,489zd,209,Utbildningar till IT-infrastukturtekniker
+210,489zd,210,Utbildningar till IT-infrastukturtekniker
+211,489zd,211,Utbildningar till IT-infrastukturtekniker
+212,489zf,212,Utbildningar inom interaktionsdesign
+213,489zf,213,Utbildningar inom interaktionsdesign
+214,489zf,214,Utbildningar inom interaktionsdesign
+215,489zf,215,Utbildningar inom interaktionsdesign
+216,489zf,216,Utbildningar inom interaktionsdesign
+217,489zf,217,Utbildningar inom interaktionsdesign
+218,489zf,218,Utbildningar inom interaktionsdesign
+219,489zf,219,Utbildningar inom interaktionsdesign
+220,489zf,220,Utbildningar inom interaktionsdesign
+221,340xc,221,Utbildningar till affärsutvecklare
+222,340xc,222,Utbildningar till affärsutvecklare
+223,340xc,223,Utbildningar till affärsutvecklare
+224,340xc,224,Utbildningar till affärsutvecklare
+225,340xd,225,Breda ekonomiutbildningar med inriktning mot specifik bransch
+226,340xd,226,Breda ekonomiutbildningar med inriktning mot specifik bransch
+227,340xd,227,Breda ekonomiutbildningar med inriktning mot specifik bransch
+228,340xd,228,Breda ekonomiutbildningar med inriktning mot specifik bransch
+229,340xd,229,Breda ekonomiutbildningar med inriktning mot specifik bransch
+230,340xd,230,Breda ekonomiutbildningar med inriktning mot specifik bransch
+231,341za,231,Utbildningar inom inköp och offentlig upphandling
+232,341za,232,Utbildningar inom inköp och offentlig upphandling
+233,341za,233,Utbildningar inom inköp och offentlig upphandling
+234,341za,234,Utbildningar inom inköp och offentlig upphandling
+235,341za,235,Utbildningar inom inköp och offentlig upphandling
+236,341za,236,Utbildningar inom inköp och offentlig upphandling
+237,341za,237,Utbildningar inom inköp och offentlig upphandling
+238,341za,238,Utbildningar inom inköp och offentlig upphandling
+239,341za,239,Utbildningar inom inköp och offentlig upphandling
+240,341za,240,Utbildningar inom inköp och offentlig upphandling
+241,341za,241,Utbildningar inom inköp och offentlig upphandling
+242,341za,242,Utbildningar inom inköp och offentlig upphandling
+243,341za,243,Utbildningar inom inköp och offentlig upphandling
+244,341za,244,Utbildningar inom inköp och offentlig upphandling
+245,341zc,245,Utbildningar inom e-handel
+246,341zc,246,Utbildningar inom e-handel
+247,341zc,247,Utbildningar inom e-handel
+248,341zc,248,Utbildningar inom e-handel
+249,341zc,249,Utbildningar inom e-handel
+250,341zc,250,Utbildningar inom e-handel
+251,341zd,251,Utbildningar till optikerassistent
+252,341zg,252,Utbildningar inom företagsförsäljning
+253,341zg,253,Utbildningar inom företagsförsäljning
+254,341zg,254,Utbildningar inom företagsförsäljning
+255,341zg,255,Utbildningar inom företagsförsäljning
+256,341zg,256,Utbildningar inom företagsförsäljning
+257,341zg,257,Utbildningar inom företagsförsäljning
+258,341zg,258,Utbildningar inom företagsförsäljning
+259,341zg,259,Utbildningar inom företagsförsäljning
+260,341zg,260,Utbildningar inom företagsförsäljning
+261,341zg,261,Utbildningar inom företagsförsäljning
+262,341zg,262,Utbildningar inom företagsförsäljning
+263,341zg,263,Utbildningar inom företagsförsäljning
+264,341zg,264,Utbildningar inom företagsförsäljning
+265,341zg,265,Utbildningar inom företagsförsäljning
+266,341zg,266,Utbildningar inom företagsförsäljning
+267,341zg,267,Utbildningar inom företagsförsäljning
+268,341zg,268,Utbildningar inom företagsförsäljning
+269,341zg,269,Utbildningar inom företagsförsäljning
+270,341zg,270,Utbildningar inom företagsförsäljning
+271,341zg,271,Utbildningar inom företagsförsäljning
+272,341zg,272,Utbildningar inom företagsförsäljning
+273,341zh,273,Utbildningar inom företagsförsäljning mot IT
+274,341zh,274,Utbildningar inom företagsförsäljning mot IT
+275,341zh,275,Utbildningar inom företagsförsäljning mot IT
+276,341zh,276,Utbildningar inom företagsförsäljning mot IT
+277,341zh,277,Utbildningar inom företagsförsäljning mot IT
+278,341zl,278,Utbildningar inom företagsförsäljning mot övriga branscher/marknader
+279,341zl,279,Utbildningar inom företagsförsäljning mot övriga branscher/marknader
+280,341zl,280,Utbildningar inom företagsförsäljning mot övriga branscher/marknader
+281,341zl,281,Utbildningar inom företagsförsäljning mot övriga branscher/marknader
+282,341zl,282,Utbildningar inom företagsförsäljning mot övriga branscher/marknader
+283,341zl,283,Utbildningar inom företagsförsäljning mot övriga branscher/marknader
+284,341zl,284,Utbildningar inom företagsförsäljning mot övriga branscher/marknader
+285,341zl,285,Utbildningar inom företagsförsäljning mot övriga branscher/marknader
+286,341zl,286,Utbildningar inom företagsförsäljning mot övriga branscher/marknader
+287,341zl,287,Utbildningar inom företagsförsäljning mot övriga branscher/marknader
+288,341zl,288,Utbildningar inom företagsförsäljning mot övriga branscher/marknader
+289,341zl,289,Utbildningar inom företagsförsäljning mot övriga branscher/marknader
+290,341zl,290,Utbildningar inom företagsförsäljning mot övriga branscher/marknader
+291,341zl,291,Utbildningar inom företagsförsäljning mot övriga branscher/marknader
+292,341zy,292,"Övriga utbildningar inköp, försäljning och distribution"
+293,342za,293,Utbildningar inom marknadsföring
+294,342za,294,Utbildningar inom marknadsföring
+295,342za,295,Utbildningar inom marknadsföring
+296,342za,296,Utbildningar inom marknadsföring
+297,342za,297,Utbildningar inom marknadsföring
+298,342za,298,Utbildningar inom marknadsföring
+299,342za,299,Utbildningar inom marknadsföring
+300,342za,300,Utbildningar inom marknadsföring
+301,342za,301,Utbildningar inom marknadsföring
+302,342za,302,Utbildningar inom marknadsföring
+303,342za,303,Utbildningar inom marknadsföring
+304,342za,304,Utbildningar inom marknadsföring
+305,342za,305,Utbildningar inom marknadsföring
+306,342zb,306,Utbildningar inom butikskommunikation
+307,342zb,307,Utbildningar inom butikskommunikation
+308,342zc,308,Utbildningar inom digital analys/market automation
+309,342zc,309,Utbildningar inom digital analys/market automation
+310,342zc,310,Utbildningar inom digital analys/market automation
+311,342zc,311,Utbildningar inom digital analys/market automation
+312,342zc,312,Utbildningar inom digital analys/market automation
+313,342zc,313,Utbildningar inom digital analys/market automation
+314,342zc,314,Utbildningar inom digital analys/market automation
+315,342zc,315,Utbildningar inom digital analys/market automation
+316,342zd,316,Utbildningar inom marknadskommunikation/koordinator
+317,342zd,317,Utbildningar inom marknadskommunikation/koordinator
+318,342zd,318,Utbildningar inom marknadskommunikation/koordinator
+319,342zy,319,Övriga utbildningar marknadsföring
+320,342zy,320,Övriga utbildningar marknadsföring
+321,343za,321,Utbildningar inom bank och försäkring
+322,343za,322,Utbildningar inom bank och försäkring
+323,343za,323,Utbildningar inom bank och försäkring
+324,343za,324,Utbildningar inom bank och försäkring
+325,343za,325,Utbildningar inom bank och försäkring
+326,343za,326,Utbildningar inom bank och försäkring
+327,343za,327,Utbildningar inom bank och försäkring
+328,344za,328,Utbildningar till redovisningsekonom
+329,344za,329,Utbildningar till redovisningsekonom
+330,344za,330,Utbildningar till redovisningsekonom
+331,344za,331,Utbildningar till redovisningsekonom
+332,344za,332,Utbildningar till redovisningsekonom
+333,344za,333,Utbildningar till redovisningsekonom
+334,344za,334,Utbildningar till redovisningsekonom
+335,344za,335,Utbildningar till redovisningsekonom
+336,344za,336,Utbildningar till redovisningsekonom
+337,344za,337,Utbildningar till redovisningsekonom
+338,344za,338,Utbildningar till redovisningsekonom
+339,344za,339,Utbildningar till redovisningsekonom
+340,344za,340,Utbildningar till redovisningsekonom
+341,344za,341,Utbildningar till redovisningsekonom
+342,344za,342,Utbildningar till redovisningsekonom
+343,344za,343,Utbildningar till redovisningsekonom
+344,344za,344,Utbildningar till redovisningsekonom
+345,344za,345,Utbildningar till redovisningsekonom
+346,344za,346,Utbildningar till redovisningsekonom
+347,344za,347,Utbildningar till redovisningsekonom
+348,344za,348,Utbildningar till redovisningsekonom
+349,344za,349,Utbildningar till redovisningsekonom
+350,344za,350,Utbildningar till redovisningsekonom
+351,344za,351,Utbildningar till redovisningsekonom
+352,344za,352,Utbildningar till redovisningsekonom
+353,344za,353,Utbildningar till redovisningsekonom
+354,344za,354,Utbildningar till redovisningsekonom
+355,344za,355,Utbildningar till redovisningsekonom
+356,344za,356,Utbildningar till redovisningsekonom
+357,344za,357,Utbildningar till redovisningsekonom
+358,344za,358,Utbildningar till redovisningsekonom
+359,344za,359,Utbildningar till redovisningsekonom
+360,344za,360,Utbildningar till redovisningsekonom
+361,344za,361,Utbildningar till redovisningsekonom
+362,344zy,362,Övriga utbildningar redovisning och beskattning
+363,344zy,363,Övriga utbildningar redovisning och beskattning
+364,344zy,364,Övriga utbildningar redovisning och beskattning
+365,344zy,365,Övriga utbildningar redovisning och beskattning
+366,344zy,366,Övriga utbildningar redovisning och beskattning
+367,344zy,367,Övriga utbildningar redovisning och beskattning
+368,344zy,368,Övriga utbildningar redovisning och beskattning
+369,344zy,369,Övriga utbildningar redovisning och beskattning
+370,345aa,370,"Ledarskapsutbildningar, generell inriktning"
+371,345ab,371,Ledarskapsutbildningar inom handel
+372,345ac,372,Ledarskapsutbildningar inom vård
+373,345ac,373,Ledarskapsutbildningar inom vård
+374,345ac,374,Ledarskapsutbildningar inom vård
+375,345ac,375,Ledarskapsutbildningar inom vård
+376,345ay,376,"Övriga utbildningar ledarskap, organisation och styrning"
+377,345ay,377,"Övriga utbildningar ledarskap, organisation och styrning"
+378,345ay,378,"Övriga utbildningar ledarskap, organisation och styrning"
+379,345ay,379,"Övriga utbildningar ledarskap, organisation och styrning"
+380,345ay,380,"Övriga utbildningar ledarskap, organisation och styrning"
+381,345ay,381,"Övriga utbildningar ledarskap, organisation och styrning"
+382,345ay,382,"Övriga utbildningar ledarskap, organisation och styrning"
+383,345ay,383,"Övriga utbildningar ledarskap, organisation och styrning"
+384,345ay,384,"Övriga utbildningar ledarskap, organisation och styrning"
+385,345ay,385,"Övriga utbildningar ledarskap, organisation och styrning"
+386,345ay,386,"Övriga utbildningar ledarskap, organisation och styrning"
+387,345ay,387,"Övriga utbildningar ledarskap, organisation och styrning"
+388,345ca,388,Utbildningar till löneadministratör
+389,345ca,389,Utbildningar till löneadministratör
+390,345ca,390,Utbildningar till löneadministratör
+391,345ca,391,Utbildningar till löneadministratör
+392,345ca,392,Utbildningar till löneadministratör
+393,345ca,393,Utbildningar till löneadministratör
+394,345ca,394,Utbildningar till löneadministratör
+395,345ca,395,Utbildningar till löneadministratör
+396,345ca,396,Utbildningar till löneadministratör
+397,345ca,397,Utbildningar till löneadministratör
+398,345ca,398,Utbildningar till löneadministratör
+399,345cy,399,Övriga utbildningar personal- och löneadministration
+400,345cy,400,Övriga utbildningar personal- och löneadministration
+401,345cy,401,Övriga utbildningar personal- och löneadministration
+402,345cy,402,Övriga utbildningar personal- och löneadministration
+403,345cy,403,Övriga utbildningar personal- och löneadministration
+404,345cy,404,Övriga utbildningar personal- och löneadministration
+405,345cy,405,Övriga utbildningar personal- och löneadministration
+406,345cy,406,Övriga utbildningar personal- och löneadministration
+407,345cy,407,Övriga utbildningar personal- och löneadministration
+408,345xy,408,Övriga utbildningar ledning och administration
+409,345xy,409,Övriga utbildningar ledning och administration
+410,345xy,410,Övriga utbildningar ledning och administration
+411,345xy,411,Övriga utbildningar ledning och administration
+412,345xy,412,Övriga utbildningar ledning och administration
+413,345xy,413,Övriga utbildningar ledning och administration
+414,345xy,414,Övriga utbildningar ledning och administration
+415,346aa,415,Utbildningar till medicinsk vårdadministratör
+416,346aa,416,Utbildningar till medicinsk vårdadministratör
+417,346aa,417,Utbildningar till medicinsk vårdadministratör
+418,346aa,418,Utbildningar till medicinsk vårdadministratör
+419,346aa,419,Utbildningar till medicinsk vårdadministratör
+420,346aa,420,Utbildningar till medicinsk vårdadministratör
+421,346aa,421,Utbildningar till medicinsk vårdadministratör
+422,346aa,422,Utbildningar till medicinsk vårdadministratör
+423,346aa,423,Utbildningar till medicinsk vårdadministratör
+424,349za,424,Utbildningar inom tull
+425,349za,425,Utbildningar inom tull
+426,349za,426,Utbildningar inom tull
+427,349za,427,Utbildningar inom tull
+428,349zn,428,Utbildningar inom ekonomi med inriktning mot logistik
+429,349zn,429,Utbildningar inom ekonomi med inriktning mot logistik
+430,349zn,430,Utbildningar inom ekonomi med inriktning mot logistik
+431,349zn,431,Utbildningar inom ekonomi med inriktning mot logistik
+432,349zn,432,Utbildningar inom ekonomi med inriktning mot logistik
+433,349zn,433,Utbildningar inom ekonomi med inriktning mot logistik
+434,349zn,434,Utbildningar inom ekonomi med inriktning mot logistik
+435,349zn,435,Utbildningar inom ekonomi med inriktning mot logistik
+436,349zn,436,Utbildningar inom ekonomi med inriktning mot logistik
+437,349zn,437,Utbildningar inom ekonomi med inriktning mot logistik
+438,349zn,438,Utbildningar inom ekonomi med inriktning mot logistik
+439,349zn,439,Utbildningar inom ekonomi med inriktning mot logistik
+440,349zn,440,Utbildningar inom ekonomi med inriktning mot logistik
+441,349zn,441,Utbildningar inom ekonomi med inriktning mot logistik
+442,349zn,442,Utbildningar inom ekonomi med inriktning mot logistik
+443,349zn,443,Utbildningar inom ekonomi med inriktning mot logistik
+444,349zn,444,Utbildningar inom ekonomi med inriktning mot logistik
+445,349zn,445,Utbildningar inom ekonomi med inriktning mot logistik
+446,349zn,446,Utbildningar inom ekonomi med inriktning mot logistik
+447,349zn,447,Utbildningar inom ekonomi med inriktning mot logistik
+448,349zn,448,Utbildningar inom ekonomi med inriktning mot logistik
+449,349zn,449,Utbildningar inom ekonomi med inriktning mot logistik
+450,349zn,450,Utbildningar inom ekonomi med inriktning mot logistik
+451,349zn,451,Utbildningar inom ekonomi med inriktning mot logistik
+452,349zn,452,Utbildningar inom ekonomi med inriktning mot logistik
+453,349zn,453,Utbildningar inom ekonomi med inriktning mot logistik
+454,349zn,454,Utbildningar inom ekonomi med inriktning mot logistik
+455,349zn,455,Utbildningar inom ekonomi med inriktning mot logistik
+456,349zn,456,Utbildningar inom ekonomi med inriktning mot logistik
+457,349zn,457,Utbildningar inom ekonomi med inriktning mot logistik
+458,349zn,458,Utbildningar inom ekonomi med inriktning mot logistik
+459,349zy,459,"Övriga utbildningar företagsekonomi, handel, administration, övrig och ospec utbildning"
+460,815aa,460,Utbildningar till frisör
+461,815aa,461,Utbildningar till frisör
+462,815ab,462,Utbildningar till hudterapeut
+463,815ab,463,Utbildningar till hudterapeut
+464,815ab,464,Utbildningar till hudterapeut
+465,815ab,465,Utbildningar till hudterapeut
+466,815ba,466,Utbildningar till massör
+467,811ba,467,Utbildningar inom Hotel management
+468,811ba,468,Utbildningar inom Hotel management
+469,811ba,469,Utbildningar inom Hotel management
+470,811ba,470,Utbildningar inom Hotel management
+471,811bb,471,"Utbildningar till receptions-, konferens- och Housekeepingansvarig"
+472,811ca,472,Utbildningar till baransvarig
+473,811cb,473,Utbildningar till Food and beverage manager
+474,811cd,474,Utbildningar till kökschef (köksmästare)
+475,811cd,475,Utbildningar till kökschef (köksmästare)
+476,811cd,476,Utbildningar till kökschef (köksmästare)
+477,811cd,477,Utbildningar till kökschef (köksmästare)
+478,811cf,478,Utbildningar till sommelier
+479,811cf,479,Utbildningar till sommelier
+480,812za,480,Utbildningar till eventarrangör
+481,812za,481,Utbildningar till eventarrangör
+482,812za,482,Utbildningar till eventarrangör
+483,812za,483,Utbildningar till eventarrangör
+484,812za,484,Utbildningar till eventarrangör
+485,812za,485,Utbildningar till eventarrangör
+486,812za,486,Utbildningar till eventarrangör
+487,812zd,487,Utbildningar till äventyrsguide inklusive skidlärare
+488,812zd,488,Utbildningar till äventyrsguide inklusive skidlärare
+489,812zd,489,Utbildningar till äventyrsguide inklusive skidlärare
+490,812zd,490,Utbildningar till äventyrsguide inklusive skidlärare
+491,812ze,491,Utbildningar till resekonsult
+492,812ze,492,Utbildningar till resekonsult
+493,812zf,493,Utbildningar till destinationsutvecklare
+494,812zf,494,Utbildningar till destinationsutvecklare
+495,812zf,495,Utbildningar till destinationsutvecklare
+496,812zf,496,Utbildningar till destinationsutvecklare
+497,812zf,497,Utbildningar till destinationsutvecklare
+498,812zf,498,Utbildningar till destinationsutvecklare
+499,812zf,499,Utbildningar till destinationsutvecklare
+500,723pa,500,Utbildningar till ambulanssjukvårdare
+501,723pa,501,Utbildningar till ambulanssjukvårdare
+502,723pa,502,Utbildningar till ambulanssjukvårdare
+503,723py,503,"Övriga utbildningar, inriktning sjukvård"
+504,723py,504,"Övriga utbildningar, inriktning sjukvård"
+505,723py,505,"Övriga utbildningar, inriktning sjukvård"
+506,723py,506,"Övriga utbildningar, inriktning sjukvård"
+507,723py,507,"Övriga utbildningar, inriktning sjukvård"
+508,723py,508,"Övriga utbildningar, inriktning sjukvård"
+509,723py,509,"Övriga utbildningar, inriktning sjukvård"
+510,723py,510,"Övriga utbildningar, inriktning sjukvård"
+511,723py,511,"Övriga utbildningar, inriktning sjukvård"
+512,723py,512,"Övriga utbildningar, inriktning sjukvård"
+513,723qb,513,Vidareutbildningar för undersköterskor – inriktning psykiatri
+514,723qb,514,Vidareutbildningar för undersköterskor – inriktning psykiatri
+515,723qb,515,Vidareutbildningar för undersköterskor – inriktning psykiatri
+516,723qb,516,Vidareutbildningar för undersköterskor – inriktning psykiatri
+517,723qb,517,Vidareutbildningar för undersköterskor – inriktning psykiatri
+518,723qb,518,Vidareutbildningar för undersköterskor – inriktning psykiatri
+519,723qb,519,Vidareutbildningar för undersköterskor – inriktning psykiatri
+520,723qb,520,Vidareutbildningar för undersköterskor – inriktning psykiatri
+521,723qb,521,Vidareutbildningar för undersköterskor – inriktning psykiatri
+522,723qb,522,Vidareutbildningar för undersköterskor – inriktning psykiatri
+523,723qy,523,"Övriga utbildningar, inriktning psykiatrisk vård"
+524,723ra,524,Utbildningar till omsorgspedagog inom äldreomsorg
+525,723ra,525,Utbildningar till omsorgspedagog inom äldreomsorg
+526,723rb,526,Vidareutbildningar för undersköterskor – äldreomsorg
+527,723rb,527,Vidareutbildningar för undersköterskor – äldreomsorg
+528,723rb,528,Vidareutbildningar för undersköterskor – äldreomsorg
+529,723rb,529,Vidareutbildningar för undersköterskor – äldreomsorg
+530,723rb,530,Vidareutbildningar för undersköterskor – äldreomsorg
+531,723rb,531,Vidareutbildningar för undersköterskor – äldreomsorg
+532,723rb,532,Vidareutbildningar för undersköterskor – äldreomsorg
+533,723rb,533,Vidareutbildningar för undersköterskor – äldreomsorg
+534,723rb,534,Vidareutbildningar för undersköterskor – äldreomsorg
+535,723rb,535,Vidareutbildningar för undersköterskor – äldreomsorg
+536,723rb,536,Vidareutbildningar för undersköterskor – äldreomsorg
+537,723rb,537,Vidareutbildningar för undersköterskor – äldreomsorg
+538,723rb,538,Vidareutbildningar för undersköterskor – äldreomsorg
+539,723rb,539,Vidareutbildningar för undersköterskor – äldreomsorg
+540,723ta,540,Utbildningar till aktiveringspedagog/boendestödjare/stödpedagog
+541,723ta,541,Utbildningar till aktiveringspedagog/boendestödjare/stödpedagog
+542,723ta,542,Utbildningar till aktiveringspedagog/boendestödjare/stödpedagog
+543,723ta,543,Utbildningar till aktiveringspedagog/boendestödjare/stödpedagog
+544,723ta,544,Utbildningar till aktiveringspedagog/boendestödjare/stödpedagog
+545,723ta,545,Utbildningar till aktiveringspedagog/boendestödjare/stödpedagog
+546,723ta,546,Utbildningar till aktiveringspedagog/boendestödjare/stödpedagog
+547,723ta,547,Utbildningar till aktiveringspedagog/boendestödjare/stödpedagog
+548,723ta,548,Utbildningar till aktiveringspedagog/boendestödjare/stödpedagog
+549,723ta,549,Utbildningar till aktiveringspedagog/boendestödjare/stödpedagog
+550,723ta,550,Utbildningar till aktiveringspedagog/boendestödjare/stödpedagog
+551,723ta,551,Utbildningar till aktiveringspedagog/boendestödjare/stödpedagog
+552,723ta,552,Utbildningar till aktiveringspedagog/boendestödjare/stödpedagog
+553,723ta,553,Utbildningar till aktiveringspedagog/boendestödjare/stödpedagog
+554,723ta,554,Utbildningar till aktiveringspedagog/boendestödjare/stödpedagog
+555,723ta,555,Utbildningar till aktiveringspedagog/boendestödjare/stödpedagog
+556,723ta,556,Utbildningar till aktiveringspedagog/boendestödjare/stödpedagog
+557,723ta,557,Utbildningar till aktiveringspedagog/boendestödjare/stödpedagog
+558,723ta,558,Utbildningar till aktiveringspedagog/boendestödjare/stödpedagog
+559,723ta,559,Utbildningar till aktiveringspedagog/boendestödjare/stödpedagog
+560,723ta,560,Utbildningar till aktiveringspedagog/boendestödjare/stödpedagog
+561,723ua,561,Utbildningar till medicinsk fotterapeut
+562,723uc,562,Utbildningar med inriktning mot palliativ vård
+563,723uc,563,Utbildningar med inriktning mot palliativ vård
+564,723uc,564,Utbildningar med inriktning mot palliativ vård
+565,724ea,565,Utbildningar till tandsköterska
+566,724ea,566,Utbildningar till tandsköterska
+567,724ea,567,Utbildningar till tandsköterska
+568,724ea,568,Utbildningar till tandsköterska
+569,724ea,569,Utbildningar till tandsköterska
+570,724ea,570,Utbildningar till tandsköterska
+571,724ea,571,Utbildningar till tandsköterska
+572,724ea,572,Utbildningar till tandsköterska
+573,724ea,573,Utbildningar till tandsköterska
+574,724ea,574,Utbildningar till tandsköterska
+575,724ea,575,Utbildningar till tandsköterska
+576,724ea,576,Utbildningar till tandsköterska
+577,724ea,577,Utbildningar till tandsköterska
+578,724ea,578,Utbildningar till tandsköterska
+579,724ea,579,Utbildningar till tandsköterska
+580,724ea,580,Utbildningar till tandsköterska
+581,724ea,581,Utbildningar till tandsköterska
+582,726xa,582,Utbildningar till medicinsk massageterapeut
+583,726xa,583,Utbildningar till medicinsk massageterapeut
+584,726xy,584,"Övriga utbildningar inom terapi, rehabilitering och kostbehandling"
+585,727xa,585,Utbildningar till apotekstekniker
+586,727xa,586,Utbildningar till apotekstekniker
+587,727xa,587,Utbildningar till apotekstekniker
+588,727xa,588,Utbildningar till apotekstekniker
+589,727xa,589,Utbildningar till apotekstekniker
+590,727xa,590,Utbildningar till apotekstekniker
+591,727xa,591,Utbildningar till apotekstekniker
+592,762ca,592,Utbildningar till behandlingsassistent/behandlingspedagog
+593,762ca,593,Utbildningar till behandlingsassistent/behandlingspedagog
+594,762ca,594,Utbildningar till behandlingsassistent/behandlingspedagog
+595,762ca,595,Utbildningar till behandlingsassistent/behandlingspedagog
+596,762ca,596,Utbildningar till behandlingsassistent/behandlingspedagog
+597,762ca,597,Utbildningar till behandlingsassistent/behandlingspedagog
+598,762ca,598,Utbildningar till behandlingsassistent/behandlingspedagog
+599,762ca,599,Utbildningar till behandlingsassistent/behandlingspedagog
+600,762ca,600,Utbildningar till behandlingsassistent/behandlingspedagog
+601,762ca,601,Utbildningar till behandlingsassistent/behandlingspedagog
+602,762ca,602,Utbildningar till behandlingsassistent/behandlingspedagog
+603,762ca,603,Utbildningar till behandlingsassistent/behandlingspedagog
+604,762ca,604,Utbildningar till behandlingsassistent/behandlingspedagog
+605,762ca,605,Utbildningar till behandlingsassistent/behandlingspedagog
+606,762ca,606,Utbildningar till behandlingsassistent/behandlingspedagog
+607,762ca,607,Utbildningar till behandlingsassistent/behandlingspedagog
+608,762ca,608,Utbildningar till behandlingsassistent/behandlingspedagog
+609,762ca,609,Utbildningar till behandlingsassistent/behandlingspedagog
+610,762ca,610,Utbildningar till behandlingsassistent/behandlingspedagog
+611,762ca,611,Utbildningar till behandlingsassistent/behandlingspedagog
+612,762ca,612,Utbildningar till behandlingsassistent/behandlingspedagog
+613,762ca,613,Utbildningar till behandlingsassistent/behandlingspedagog
+614,762ca,614,Utbildningar till behandlingsassistent/behandlingspedagog
+615,762ca,615,Utbildningar till behandlingsassistent/behandlingspedagog
+616,762ca,616,Utbildningar till behandlingsassistent/behandlingspedagog
+617,762ca,617,Utbildningar till behandlingsassistent/behandlingspedagog
+618,762ca,618,Utbildningar till behandlingsassistent/behandlingspedagog
+619,762ca,619,Utbildningar till behandlingsassistent/behandlingspedagog
+620,762ca,620,Utbildningar till behandlingsassistent/behandlingspedagog
+621,762ca,621,Utbildningar till behandlingsassistent/behandlingspedagog
+622,762ca,622,Utbildningar till behandlingsassistent/behandlingspedagog
+623,762ca,623,Utbildningar till behandlingsassistent/behandlingspedagog
+624,762ca,624,Utbildningar till behandlingsassistent/behandlingspedagog
+625,762ca,625,Utbildningar till behandlingsassistent/behandlingspedagog
+626,762xy,626,Övriga utbildningar inom socialt arbete
+627,321ba,627,Utbildningar inom kommunikation
+628,321ba,628,Utbildningar inom kommunikation
+629,321by,629,Övriga utbildningar medie- och kommunikationsvetenskap
+630,321xa,630,Utbildningar inom teknikinformation
+631,321xa,631,Utbildningar inom teknikinformation
+632,380xa,632,Utbildningar till paralegal/juristassistent
+633,380xa,633,Utbildningar till paralegal/juristassistent
+634,380xa,634,Utbildningar till paralegal/juristassistent
+635,380xy,635,Övriga utbildningar i juridik och rättsvetenskap
+636,210zy,636,Övriga utbildningar inom konst och media
+637,210zy,637,Övriga utbildningar inom konst och media
+638,212aa,638,Utbildningar till kantor
+639,212ad,639,Utbildningar inom musikproduktion
+640,212ad,640,Utbildningar inom musikproduktion
+641,212ad,641,Utbildningar inom musikproduktion
+642,213ba,642,Utbildningar inom film- och Tv-produktion
+643,213ba,643,Utbildningar inom film- och Tv-produktion
+644,213ba,644,Utbildningar inom film- och Tv-produktion
+645,213bb,645,Utbildningar till film- och Tv-producent
+646,213bb,646,Utbildningar till film- och Tv-producent
+647,213bb,647,Utbildningar till film- och Tv-producent
+648,213by,648,"Övriga utbildningar film-, radio- och Tv-produktion"
+649,213by,649,"Övriga utbildningar film-, radio- och Tv-produktion"
+650,213da,650,Utbildningar till fotograf
+651,213db,651,"Utbildningar mot grafisk formgivning, design och copywriting"
+652,213db,652,"Utbildningar mot grafisk formgivning, design och copywriting"
+653,213dc,653,Utbildningar inom medieproduktion
+654,213dc,654,Utbildningar inom medieproduktion
+655,213dc,655,Utbildningar inom medieproduktion
+656,213dc,656,Utbildningar inom medieproduktion
+657,213dc,657,Utbildningar inom medieproduktion
+658,213dc,658,Utbildningar inom medieproduktion
+659,213de,659,Utbildningar till spelgrafiker
+660,213de,660,Utbildningar till spelgrafiker
+661,213de,661,Utbildningar till spelgrafiker
+662,213de,662,Utbildningar till spelgrafiker
+663,213de,663,Utbildningar till spelgrafiker
+664,213de,664,Utbildningar till spelgrafiker
+665,213de,665,Utbildningar till spelgrafiker
+666,213de,666,Utbildningar till spelgrafiker
+667,213de,667,Utbildningar till spelgrafiker
+668,213de,668,Utbildningar till spelgrafiker
+669,213de,669,Utbildningar till spelgrafiker
+670,213de,670,Utbildningar till spelgrafiker
+671,213de,671,Utbildningar till spelgrafiker
+672,213de,672,Utbildningar till spelgrafiker
+673,213de,673,Utbildningar till spelgrafiker
+674,213de,674,Utbildningar till spelgrafiker
+675,213de,675,Utbildningar till spelgrafiker
+676,213de,676,Utbildningar till spelgrafiker
+677,213df,677,Utbildningar till speldesigner
+678,213df,678,Utbildningar till speldesigner
+679,213df,679,Utbildningar till speldesigner
+680,213df,680,Utbildningar till speldesigner
+681,213df,681,Utbildningar till speldesigner
+682,213df,682,Utbildningar till speldesigner
+683,213dy,683,Övriga utbildningar grafisk design och foto
+684,214ay,684,Övriga utbildningar modedesign
+685,214ay,685,Övriga utbildningar modedesign
+686,214ca,686,Utbildningar inom förpackningsdesign
+687,215zy,687,Övriga utbildningar konsthantverk
+688,621ca,688,"Utbildningar till driftchef, lantbruk"
+689,621ca,689,"Utbildningar till driftchef, lantbruk"
+690,621ca,690,"Utbildningar till driftchef, lantbruk"
+691,621ca,691,"Utbildningar till driftchef, lantbruk"
+692,621ca,692,"Utbildningar till driftchef, lantbruk"
+693,621fa,693,Utbildningar till beridare/unghästutbildare
+694,621fa,694,Utbildningar till beridare/unghästutbildare
+695,621fa,695,Utbildningar till beridare/unghästutbildare
+696,621fa,696,Utbildningar till beridare/unghästutbildare
+697,621fa,697,Utbildningar till beridare/unghästutbildare
+698,621fc,698,Utbildningar till ridlärare
+699,621fc,699,Utbildningar till ridlärare
+700,621fc,700,Utbildningar till ridlärare
+701,621fc,701,Utbildningar till ridlärare
+702,621fc,702,Utbildningar till ridlärare
+703,621fc,703,Utbildningar till ridlärare
+704,621ff,704,Utbildningar till hovslagare
+705,621ff,705,Utbildningar till hovslagare
+706,621fv,706,Företagsledarutbildningar inom hästbranschen
+707,622ca,707,Utbildningar till trädgårdsanläggare
+708,622ca,708,Utbildningar till trädgårdsanläggare
+709,622ca,709,Utbildningar till trädgårdsanläggare
+710,622cb,710,Utbildningar till trädgårdsodlare
+711,622cb,711,Utbildningar till trädgårdsodlare
+712,622cb,712,Utbildningar till trädgårdsodlare
+713,622cb,713,Utbildningar till trädgårdsodlare
+714,622cd,714,Utbildningar till greenkeeper
+715,622cd,715,Utbildningar till greenkeeper
+716,622ce,716,Utbildningar till arborist
+717,622ce,717,Utbildningar till arborist
+718,622cf,718,Utbildningar till arbetsledare inom trädgårdsanläggning/förvaltning
+719,622cf,719,Utbildningar till arbetsledare inom trädgårdsanläggning/förvaltning
+720,622cf,720,Utbildningar till arbetsledare inom trädgårdsanläggning/förvaltning
+721,622cf,721,Utbildningar till arbetsledare inom trädgårdsanläggning/förvaltning
+722,622cf,722,Utbildningar till arbetsledare inom trädgårdsanläggning/förvaltning
+723,622cf,723,Utbildningar till arbetsledare inom trädgårdsanläggning/förvaltning
+724,622cf,724,Utbildningar till arbetsledare inom trädgårdsanläggning/förvaltning
+725,622cg,725,Utbildningar till arbetsledare inom trädgårdsodling
+726,622cg,726,Utbildningar till arbetsledare inom trädgårdsodling
+727,623ba,727,Utbildningar till skogsbrukstekniker
+728,623xy,728,Övriga utbildningar skog 
+729,623xy,729,Övriga utbildningar skog 
+730,623xy,730,Övriga utbildningar skog 
+731,623xy,731,Övriga utbildningar skog 
+732,640xa,732,"Utbildningar till djurvårdare, djurklinik"
+733,146xa,733,Utbildningar till trafiklärare
+734,146xa,734,Utbildningar till trafiklärare
+735,146xa,735,Utbildningar till trafiklärare
+736,146xa,736,Utbildningar till trafiklärare
+737,146xa,737,Utbildningar till trafiklärare
+738,146xa,738,Utbildningar till trafiklärare
+739,149xy,739,Övriga utbildningar inom pedagogik och lärarutbildning
+740,149xy,740,Övriga utbildningar inom pedagogik och lärarutbildning
+741,149xy,741,Övriga utbildningar inom pedagogik och lärarutbildning
+742,149xy,742,Övriga utbildningar inom pedagogik och lärarutbildning
+743,580xa,743,Utbildningar till kart- och mättekniker
+744,580xa,744,Utbildningar till kart- och mättekniker
+745,580xa,745,Utbildningar till kart- och mättekniker
+746,580xa,746,Utbildningar till kart- och mättekniker
+747,580xa,747,Utbildningar till kart- och mättekniker
+748,580xb,748,Utbildningar till lantmäteritekniker
+749,580xy,749,Övriga utbildningar inom samhällsbyggnad och byggnadsteknik
+750,580xy,750,Övriga utbildningar inom samhällsbyggnad och byggnadsteknik
+751,580xy,751,Övriga utbildningar inom samhällsbyggnad och byggnadsteknik
+752,581xa,752,Utbildningar till bygglovshandläggare
+753,581xa,753,Utbildningar till bygglovshandläggare
+754,581xa,754,Utbildningar till bygglovshandläggare
+755,581xy,755,Övriga utbildningar inom samhällsbyggnad och arkitektur
+756,581xy,756,Övriga utbildningar inom samhällsbyggnad och arkitektur
+757,582ca,757,"Utbildningar till konstruktör/projektör, bygg"
+758,582ca,758,"Utbildningar till konstruktör/projektör, bygg"
+759,582ca,759,"Utbildningar till konstruktör/projektör, bygg"
+760,582ca,760,"Utbildningar till konstruktör/projektör, bygg"
+761,582ca,761,"Utbildningar till konstruktör/projektör, bygg"
+762,582ca,762,"Utbildningar till konstruktör/projektör, bygg"
+763,582ca,763,"Utbildningar till konstruktör/projektör, bygg"
+764,582ca,764,"Utbildningar till konstruktör/projektör, bygg"
+765,582ca,765,"Utbildningar till konstruktör/projektör, bygg"
+766,582ca,766,"Utbildningar till konstruktör/projektör, bygg"
+767,582ca,767,"Utbildningar till konstruktör/projektör, bygg"
+768,582ca,768,"Utbildningar till konstruktör/projektör, bygg"
+769,582cc,769,Utbildningar till byggnadsarbete mot miljö
+770,582cc,770,Utbildningar till byggnadsarbete mot miljö
+771,582cc,771,Utbildningar till byggnadsarbete mot miljö
+772,582cc,772,Utbildningar till byggnadsarbete mot miljö
+773,582cc,773,Utbildningar till byggnadsarbete mot miljö
+774,582cc,774,Utbildningar till byggnadsarbete mot miljö
+775,582cc,775,Utbildningar till byggnadsarbete mot miljö
+776,582cc,776,Utbildningar till byggnadsarbete mot miljö
+777,582cc,777,Utbildningar till byggnadsarbete mot miljö
+778,582cc,778,Utbildningar till byggnadsarbete mot miljö
+779,582cd,779,Utbildningar till solenergiprojektör
+780,582cd,780,Utbildningar till solenergiprojektör
+781,582ct,781,"Utbildningar till produktionsledare/arbetsledare, bygg"
+782,582ct,782,"Utbildningar till produktionsledare/arbetsledare, bygg"
+783,582ct,783,"Utbildningar till produktionsledare/arbetsledare, bygg"
+784,582ct,784,"Utbildningar till produktionsledare/arbetsledare, bygg"
+785,582ct,785,"Utbildningar till produktionsledare/arbetsledare, bygg"
+786,582ct,786,"Utbildningar till produktionsledare/arbetsledare, bygg"
+787,582ct,787,"Utbildningar till produktionsledare/arbetsledare, bygg"
+788,582ct,788,"Utbildningar till produktionsledare/arbetsledare, bygg"
+789,582ct,789,"Utbildningar till produktionsledare/arbetsledare, bygg"
+790,582ct,790,"Utbildningar till produktionsledare/arbetsledare, bygg"
+791,582ct,791,"Utbildningar till produktionsledare/arbetsledare, bygg"
+792,582cy,792,Övriga utbildningar byggnadsarbete
+793,582cy,793,Övriga utbildningar byggnadsarbete
+794,582cy,794,Övriga utbildningar byggnadsarbete
+795,582cy,795,Övriga utbildningar byggnadsarbete
+796,582cy,796,Övriga utbildningar byggnadsarbete
+797,582cy,797,Övriga utbildningar byggnadsarbete
+798,582cy,798,Övriga utbildningar byggnadsarbete
+799,582cy,799,Övriga utbildningar byggnadsarbete
+800,582cy,800,Övriga utbildningar byggnadsarbete
+801,582cy,801,Övriga utbildningar byggnadsarbete
+802,582cy,802,Övriga utbildningar byggnadsarbete
+803,582cy,803,Övriga utbildningar byggnadsarbete
+804,582cy,804,Övriga utbildningar byggnadsarbete
+805,582cy,805,Övriga utbildningar byggnadsarbete
+806,582cy,806,Övriga utbildningar byggnadsarbete
+807,582cy,807,Övriga utbildningar byggnadsarbete
+808,582da,808,Utbildningar till trähusprojektör
+809,582da,809,Utbildningar till trähusprojektör
+810,582dy,810,Övriga utbildningar byggnadssnickeri
+811,582dy,811,Övriga utbildningar byggnadssnickeri
+812,582fa,812,Utbildningar till VVS-projektör
+813,582fa,813,Utbildningar till VVS-projektör
+814,582fa,814,Utbildningar till VVS-projektör
+815,582fa,815,Utbildningar till VVS-projektör
+816,582fa,816,Utbildningar till VVS-projektör
+817,582fa,817,Utbildningar till VVS-projektör
+818,582fa,818,Utbildningar till VVS-projektör
+819,582fa,819,Utbildningar till VVS-projektör
+820,582fa,820,Utbildningar till VVS-projektör
+821,582fa,821,Utbildningar till VVS-projektör
+822,582fa,822,Utbildningar till VVS-projektör
+823,582fa,823,Utbildningar till VVS-projektör
+824,582fa,824,Utbildningar till VVS-projektör
+825,582fb,825,Utbildningar till ventilationstekniker
+826,582fb,826,Utbildningar till ventilationstekniker
+827,582fb,827,Utbildningar till ventilationstekniker
+828,582fb,828,Utbildningar till ventilationstekniker
+829,582fc,829,"Utbildningar inom driftoptimering och underhåll, VVS"
+830,582fc,830,"Utbildningar inom driftoptimering och underhåll, VVS"
+831,582fc,831,"Utbildningar inom driftoptimering och underhåll, VVS"
+832,582fc,832,"Utbildningar inom driftoptimering och underhåll, VVS"
+833,582fc,833,"Utbildningar inom driftoptimering och underhåll, VVS"
+834,582fc,834,"Utbildningar inom driftoptimering och underhåll, VVS"
+835,582fc,835,"Utbildningar inom driftoptimering och underhåll, VVS"
+836,582fc,836,"Utbildningar inom driftoptimering och underhåll, VVS"
+837,582fy,837,Övriga VVS-utbildningar
+838,582fy,838,Övriga VVS-utbildningar
+839,582fy,839,Övriga VVS-utbildningar
+840,582ga,840,Utbildningar till järnvägsingenjör
+841,582ga,841,Utbildningar till järnvägsingenjör
+842,582ga,842,Utbildningar till järnvägsingenjör
+843,582ga,843,Utbildningar till järnvägsingenjör
+844,582ga,844,Utbildningar till järnvägsingenjör
+845,582gb,845,Utbildningar till anläggningsprojektör
+846,582gb,846,Utbildningar till anläggningsprojektör
+847,582gb,847,Utbildningar till anläggningsprojektör
+848,582gb,848,Utbildningar till anläggningsprojektör
+849,582gb,849,Utbildningar till anläggningsprojektör
+850,582gb,850,Utbildningar till anläggningsprojektör
+851,582gb,851,Utbildningar till anläggningsprojektör
+852,582gb,852,Utbildningar till anläggningsprojektör
+853,582gc,853,Utbildningar till väg- och gatuprojektör
+854,582gc,854,Utbildningar till väg- och gatuprojektör
+855,582ge,855,"Utbildningar till produktionsledare/arbetsledare, anläggning"
+856,582ge,856,"Utbildningar till produktionsledare/arbetsledare, anläggning"
+857,582ge,857,"Utbildningar till produktionsledare/arbetsledare, anläggning"
+858,582ge,858,"Utbildningar till produktionsledare/arbetsledare, anläggning"
+859,582ge,859,"Utbildningar till produktionsledare/arbetsledare, anläggning"
+860,582ge,860,"Utbildningar till produktionsledare/arbetsledare, anläggning"
+861,582ge,861,"Utbildningar till produktionsledare/arbetsledare, anläggning"
+862,582ge,862,"Utbildningar till produktionsledare/arbetsledare, anläggning"
+863,582gf,863,Utbildningar till VA-projektör
+864,582gf,864,Utbildningar till VA-projektör
+865,582gf,865,Utbildningar till VA-projektör
+866,582gf,866,Utbildningar till VA-projektör
+867,582gf,867,Utbildningar till VA-projektör
+868,582gf,868,Utbildningar till VA-projektör
+869,582gf,869,Utbildningar till VA-projektör
+870,582gf,870,Utbildningar till VA-projektör
+871,582gf,871,Utbildningar till VA-projektör
+872,582gf,872,Utbildningar till VA-projektör
+873,582gf,873,Utbildningar till VA-projektör
+874,582gf,874,Utbildningar till VA-projektör
+875,582gg,875,Utbildningar inom vatten- och miljöteknik
+876,582gg,876,Utbildningar inom vatten- och miljöteknik
+877,582gg,877,Utbildningar inom vatten- och miljöteknik
+878,582gg,878,Utbildningar inom vatten- och miljöteknik
+879,582gg,879,Utbildningar inom vatten- och miljöteknik
+880,582gg,880,Utbildningar inom vatten- och miljöteknik
+881,582gg,881,Utbildningar inom vatten- och miljöteknik
+882,582gh,882,Utbildningar till rörnätstekniker
+883,582gh,883,Utbildningar till rörnätstekniker
+884,582gy,884,"Övriga utbildningar inom betong-, anläggnings- och vägarbete"
+885,582gy,885,"Övriga utbildningar inom betong-, anläggnings- och vägarbete"
+886,582gy,886,"Övriga utbildningar inom betong-, anläggnings- och vägarbete"
+887,582xa,887,Utbildningar till drifttekniker fastighet
+888,582xa,888,Utbildningar till drifttekniker fastighet
+889,582xa,889,Utbildningar till drifttekniker fastighet
+890,582xa,890,Utbildningar till drifttekniker fastighet
+891,582xa,891,Utbildningar till drifttekniker fastighet
+892,582xa,892,Utbildningar till drifttekniker fastighet
+893,582xa,893,Utbildningar till drifttekniker fastighet
+894,582xa,894,Utbildningar till drifttekniker fastighet
+895,582xa,895,Utbildningar till drifttekniker fastighet
+896,582xa,896,Utbildningar till drifttekniker fastighet
+897,582xa,897,Utbildningar till drifttekniker fastighet
+898,582xa,898,Utbildningar till drifttekniker fastighet
+899,582xa,899,Utbildningar till drifttekniker fastighet
+900,582xa,900,Utbildningar till drifttekniker fastighet
+901,582xa,901,Utbildningar till drifttekniker fastighet
+902,582xb,902,Utbildningar till fastighetsingenjör
+903,582xb,903,Utbildningar till fastighetsingenjör
+904,582xc,904,Utbildningar till fastighetsförvaltare
+905,582xc,905,Utbildningar till fastighetsförvaltare
+906,582xc,906,Utbildningar till fastighetsförvaltare
+907,582xc,907,Utbildningar till fastighetsförvaltare
+908,582xc,908,Utbildningar till fastighetsförvaltare
+909,582xc,909,Utbildningar till fastighetsförvaltare
+910,582xc,910,Utbildningar till fastighetsförvaltare
+911,582xc,911,Utbildningar till fastighetsförvaltare
+912,582xc,912,Utbildningar till fastighetsförvaltare
+913,582xc,913,Utbildningar till fastighetsförvaltare
+914,582xf,914,Utbildningar till Facility Manager
+915,582xf,915,Utbildningar till Facility Manager
+916,582xf,916,Utbildningar till Facility Manager
+917,582xf,917,Utbildningar till Facility Manager
+918,582xy,918,Övriga utbildningar byggnads- och anläggningsteknik
+919,582xy,919,Övriga utbildningar byggnads- och anläggningsteknik
+920,582xy,920,Övriga utbildningar byggnads- och anläggningsteknik
+921,582xy,921,Övriga utbildningar byggnads- och anläggningsteknik
+922,582xy,922,Övriga utbildningar byggnads- och anläggningsteknik
+923,851zy,923,Övriga utbildningar inom arbetsmiljö och arbetarskydd
+924,851zy,924,Övriga utbildningar inom arbetsmiljö och arbetarskydd
+925,851zy,925,Övriga utbildningar inom arbetsmiljö och arbetarskydd
+926,851zy,926,Övriga utbildningar inom arbetsmiljö och arbetarskydd
+927,851zy,927,Övriga utbildningar inom arbetsmiljö och arbetarskydd
+928,869za,928,Utbildningar till säkerhetstekniker
+929,869za,929,Utbildningar till säkerhetstekniker
+930,869zt,930,Utbildningar inom säkerhetssamordning
+931,869zt,931,Utbildningar inom säkerhetssamordning
+932,869zt,932,Utbildningar inom säkerhetssamordning
+933,869zt,933,Utbildningar inom säkerhetssamordning
+934,869zt,934,Utbildningar inom säkerhetssamordning
+935,869zt,935,Utbildningar inom säkerhetssamordning
+936,869zt,936,Utbildningar inom säkerhetssamordning
+937,869zt,937,Utbildningar inom säkerhetssamordning
+938,869zt,938,Utbildningar inom säkerhetssamordning
+939,869zt,939,Utbildningar inom säkerhetssamordning
+940,869zt,940,Utbildningar inom säkerhetssamordning
+941,869zt,941,Utbildningar inom säkerhetssamordning
+942,869zt,942,Utbildningar inom säkerhetssamordning
+943,869zt,943,Utbildningar inom säkerhetssamordning
+944,869zt,944,Utbildningar inom säkerhetssamordning
+945,869zy,945,Övriga utbildningar säkerhetstjänster
+946,869zy,946,Övriga utbildningar säkerhetstjänster
+947,869zy,947,Övriga utbildningar säkerhetstjänster
+948,869zy,948,Övriga utbildningar säkerhetstjänster
+949,869zy,949,Övriga utbildningar säkerhetstjänster
+950,521ca,950,Utbildningar till CNC-tekniker
+951,521ca,951,Utbildningar till CNC-tekniker
+952,521ca,952,Utbildningar till CNC-tekniker
+953,521ca,953,Utbildningar till CNC-tekniker
+954,521ca,954,Utbildningar till CNC-tekniker
+955,521ca,955,Utbildningar till CNC-tekniker
+956,521cb,956,"Utbildningar till yrkessvetsare, avancerad"
+957,521cb,957,"Utbildningar till yrkessvetsare, avancerad"
+958,521cc,958,"Utbildningar till svetsspecialist, kontrollant och konstruktör"
+959,521cc,959,"Utbildningar till svetsspecialist, kontrollant och konstruktör"
+960,521cc,960,"Utbildningar till svetsspecialist, kontrollant och konstruktör"
+961,521cd,961,Utbildningar till CAD-tekniker/konstruktör
+962,521cd,962,Utbildningar till CAD-tekniker/konstruktör
+963,521cd,963,Utbildningar till CAD-tekniker/konstruktör
+964,521cd,964,Utbildningar till CAD-tekniker/konstruktör
+965,521cd,965,Utbildningar till CAD-tekniker/konstruktör
+966,521cd,966,Utbildningar till CAD-tekniker/konstruktör
+967,521cd,967,Utbildningar till CAD-tekniker/konstruktör
+968,521cd,968,Utbildningar till CAD-tekniker/konstruktör
+969,521cd,969,Utbildningar till CAD-tekniker/konstruktör
+970,521cd,970,Utbildningar till CAD-tekniker/konstruktör
+971,521cd,971,Utbildningar till CAD-tekniker/konstruktör
+972,521cd,972,Utbildningar till CAD-tekniker/konstruktör
+973,521cd,973,Utbildningar till CAD-tekniker/konstruktör
+974,521cd,974,Utbildningar till CAD-tekniker/konstruktör
+975,521ce,975,Utbildningar till produktionstekniker
+976,521ce,976,Utbildningar till produktionstekniker
+977,521ce,977,Utbildningar till produktionstekniker
+978,521ce,978,Utbildningar till produktionstekniker
+979,521ce,979,Utbildningar till produktionstekniker
+980,521ce,980,Utbildningar till produktionstekniker
+981,521ce,981,Utbildningar till produktionstekniker
+982,521ce,982,Utbildningar till produktionstekniker
+983,521ce,983,Utbildningar till produktionstekniker
+984,521ce,984,Utbildningar till produktionstekniker
+985,521ce,985,Utbildningar till produktionstekniker
+986,521ce,986,Utbildningar till produktionstekniker
+987,521ce,987,Utbildningar till produktionstekniker
+988,521ce,988,Utbildningar till produktionstekniker
+989,521ce,989,Utbildningar till produktionstekniker
+990,521ce,990,Utbildningar till produktionstekniker
+991,521ce,991,Utbildningar till produktionstekniker
+992,521ce,992,Utbildningar till produktionstekniker
+993,521ce,993,Utbildningar till produktionstekniker
+994,521ce,994,Utbildningar till produktionstekniker
+995,521ce,995,Utbildningar till produktionstekniker
+996,521ce,996,Utbildningar till produktionstekniker
+997,521ce,997,Utbildningar till produktionstekniker
+998,521ce,998,Utbildningar till produktionstekniker
+999,521cf,999,Utbildningar till underhållstekniker
+1000,521cf,1000,Utbildningar till underhållstekniker
+1001,521cf,1001,Utbildningar till underhållstekniker
+1002,521cf,1002,Utbildningar till underhållstekniker
+1003,521cf,1003,Utbildningar till underhållstekniker
+1004,521cf,1004,Utbildningar till underhållstekniker
+1005,521cf,1005,Utbildningar till underhållstekniker
+1006,521cf,1006,Utbildningar till underhållstekniker
+1007,521cf,1007,Utbildningar till underhållstekniker
+1008,521cf,1008,Utbildningar till underhållstekniker
+1009,521cf,1009,Utbildningar till underhållstekniker
+1010,521cf,1010,Utbildningar till underhållstekniker
+1011,521ch,1011,Utbildningar till provningstekniker
+1012,521ch,1012,Utbildningar till provningstekniker
+1013,521ci,1013,Utbildningar till 3d-tekniker
+1014,522ca,1014,Utbildningar till elinstallatör
+1015,522cb,1015,Utbildningar till elkrafttekniker och högspänningstekniker
+1016,522cb,1016,Utbildningar till elkrafttekniker och högspänningstekniker
+1017,522cb,1017,Utbildningar till elkrafttekniker och högspänningstekniker
+1018,522cb,1018,Utbildningar till elkrafttekniker och högspänningstekniker
+1019,522cb,1019,Utbildningar till elkrafttekniker och högspänningstekniker
+1020,522cb,1020,Utbildningar till elkrafttekniker och högspänningstekniker
+1021,522cb,1021,Utbildningar till elkrafttekniker och högspänningstekniker
+1022,522cb,1022,Utbildningar till elkrafttekniker och högspänningstekniker
+1023,522cb,1023,Utbildningar till elkrafttekniker och högspänningstekniker
+1024,522cb,1024,Utbildningar till elkrafttekniker och högspänningstekniker
+1025,522cb,1025,Utbildningar till elkrafttekniker och högspänningstekniker
+1026,522cb,1026,Utbildningar till elkrafttekniker och högspänningstekniker
+1027,522cb,1027,Utbildningar till elkrafttekniker och högspänningstekniker
+1028,522cb,1028,Utbildningar till elkrafttekniker och högspänningstekniker
+1029,522cb,1029,Utbildningar till elkrafttekniker och högspänningstekniker
+1030,522cb,1030,Utbildningar till elkrafttekniker och högspänningstekniker
+1031,522cb,1031,Utbildningar till elkrafttekniker och högspänningstekniker
+1032,522cb,1032,Utbildningar till elkrafttekniker och högspänningstekniker
+1033,522cb,1033,Utbildningar till elkrafttekniker och högspänningstekniker
+1034,522cb,1034,Utbildningar till elkrafttekniker och högspänningstekniker
+1035,522cd,1035,Utbildningar till elkonstruktör
+1036,522cd,1036,Utbildningar till elkonstruktör
+1037,522cd,1037,Utbildningar till elkonstruktör
+1038,522cd,1038,Utbildningar till elkonstruktör
+1039,522cd,1039,Utbildningar till elkonstruktör
+1040,522cd,1040,Utbildningar till elkonstruktör
+1041,522cd,1041,Utbildningar till elkonstruktör
+1042,522cd,1042,Utbildningar till elkonstruktör
+1043,522cd,1043,Utbildningar till elkonstruktör
+1044,522cd,1044,Utbildningar till elkonstruktör
+1045,522ce,1045,Utbildningar till järnvägstekniker/signaltekniker
+1046,522cf,1046,Utbildningar till järnvägstekniker/eltekniker
+1047,522cf,1047,Utbildningar till järnvägstekniker/eltekniker
+1048,522cf,1048,Utbildningar till järnvägstekniker/eltekniker
+1049,522cf,1049,Utbildningar till järnvägstekniker/eltekniker
+1050,522cg,1050,Utbildningar till järnvägstekniker/bantekniker
+1051,522cg,1051,Utbildningar till järnvägstekniker/bantekniker
+1052,522cu,1052,Projektledarutbildningar med inriktning mot elinstallation
+1053,522cu,1053,Projektledarutbildningar med inriktning mot elinstallation
+1054,522cu,1054,Projektledarutbildningar med inriktning mot elinstallation
+1055,522cu,1055,Projektledarutbildningar med inriktning mot elinstallation
+1056,522cu,1056,Projektledarutbildningar med inriktning mot elinstallation
+1057,522cy,1057,Övriga utbildningar elektrisk installation och elmekanik
+1058,522da,1058,Utbildningar till drifttekniker
+1059,522da,1059,Utbildningar till drifttekniker
+1060,522da,1060,Utbildningar till drifttekniker
+1061,522da,1061,Utbildningar till drifttekniker
+1062,522da,1062,Utbildningar till drifttekniker
+1063,522da,1063,Utbildningar till drifttekniker
+1064,522da,1064,Utbildningar till drifttekniker
+1065,522da,1065,Utbildningar till drifttekniker
+1066,522da,1066,Utbildningar till drifttekniker
+1067,522da,1067,Utbildningar till drifttekniker
+1068,522da,1068,Utbildningar till drifttekniker
+1069,522de,1069,"Utbildningar till kyl-, värmepumps- och ventilationstekniker"
+1070,522de,1070,"Utbildningar till kyl-, värmepumps- och ventilationstekniker"
+1071,522de,1071,"Utbildningar till kyl-, värmepumps- och ventilationstekniker"
+1072,522de,1072,"Utbildningar till kyl-, värmepumps- och ventilationstekniker"
+1073,522de,1073,"Utbildningar till kyl-, värmepumps- och ventilationstekniker"
+1074,522de,1074,"Utbildningar till kyl-, värmepumps- och ventilationstekniker"
+1075,522dg,1075,Utbildningar till vindkrafttekniker
+1076,522dg,1076,Utbildningar till vindkrafttekniker
+1077,522dy,1077,"Övriga utbildningar energi, drift och underhåll"
+1078,522dy,1078,"Övriga utbildningar energi, drift och underhåll"
+1079,523ea,1079,Utbildningar till nätplanerare
+1080,523eb,1080,"Utbildningar till nät-, fiber- och telekomtekniker"
+1081,523eb,1081,"Utbildningar till nät-, fiber- och telekomtekniker"
+1082,523eb,1082,"Utbildningar till nät-, fiber- och telekomtekniker"
+1083,523ef,1083,Utbildningar till elektroniktekniker
+1084,523ef,1084,Utbildningar till elektroniktekniker
+1085,523eg,1085,Utbildningar till mekatroniker
+1086,523ey,1086,"Övriga utbildningar elektronik-, tele- och datatekniskt arbete"
+1087,523fa,1087,Utbildningar till automationstekniker
+1088,523fa,1088,Utbildningar till automationstekniker
+1089,523fa,1089,Utbildningar till automationstekniker
+1090,523fa,1090,Utbildningar till automationstekniker
+1091,523fa,1091,Utbildningar till automationstekniker
+1092,523fa,1092,Utbildningar till automationstekniker
+1093,523fa,1093,Utbildningar till automationstekniker
+1094,523fa,1094,Utbildningar till automationstekniker
+1095,523fa,1095,Utbildningar till automationstekniker
+1096,523fa,1096,Utbildningar till automationstekniker
+1097,523fa,1097,Utbildningar till automationstekniker
+1098,523fa,1098,Utbildningar till automationstekniker
+1099,523fa,1099,Utbildningar till automationstekniker
+1100,523fa,1100,Utbildningar till automationstekniker
+1101,523fa,1101,Utbildningar till automationstekniker
+1102,523fb,1102,Utbildningar till hydraulsystemtekniker
+1103,523fb,1103,Utbildningar till hydraulsystemtekniker
+1104,523fc,1104,Utbildningar inom robotautomation
+1105,523fc,1105,Utbildningar inom robotautomation
+1106,523fc,1106,Utbildningar inom robotautomation
+1107,523fc,1107,Utbildningar inom robotautomation
+1108,523fy,1108,Övriga utbildningar automation
+1109,523xa,1109,Utbildningar till eventtekniker
+1110,523xa,1110,Utbildningar till eventtekniker
+1111,523xa,1111,Utbildningar till eventtekniker
+1112,523xa,1112,Utbildningar till eventtekniker
+1113,523xa,1113,Utbildningar till eventtekniker
+1114,523xa,1114,Utbildningar till eventtekniker
+1115,523xy,1115,"Övriga utbildningar elektronik, datateknik och automation"
+1116,524ca,1116,"Utbildningar inom laboratorieteknik, kemi"
+1117,524ca,1117,"Utbildningar inom laboratorieteknik, kemi"
+1118,524ca,1118,"Utbildningar inom laboratorieteknik, kemi"
+1119,524ca,1119,"Utbildningar inom laboratorieteknik, kemi"
+1120,524ds,1120,Utbildningar till processtekniker
+1121,524ds,1121,Utbildningar till processtekniker
+1122,524ds,1122,Utbildningar till processtekniker
+1123,524ds,1123,Utbildningar till processtekniker
+1124,524ds,1124,Utbildningar till processtekniker
+1125,524ds,1125,Utbildningar till processtekniker
+1126,524ds,1126,Utbildningar till processtekniker
+1127,524ds,1127,Utbildningar till processtekniker
+1128,524ds,1128,Utbildningar till processtekniker
+1129,524ds,1129,Utbildningar till processtekniker
+1130,524ds,1130,Utbildningar till processtekniker
+1131,525ca,1131,Utbildningar till busstekniker/tekniker för tunga fordon
+1132,525cb,1132,Utbildningar till tågtekniker
+1133,525cb,1133,Utbildningar till tågtekniker
+1134,525cb,1134,Utbildningar till tågtekniker
+1135,525cb,1135,Utbildningar till tågtekniker
+1136,525cd,1136,Utbildningar till fordonstekniker
+1137,525cd,1137,Utbildningar till fordonstekniker
+1138,525cd,1138,Utbildningar till fordonstekniker
+1139,525cd,1139,Utbildningar till fordonstekniker
+1140,525cy,1140,Övriga utbildningar fordonsteknik
+1141,525da,1141,Utbildningar till flygtekniker
+1142,525da,1142,Utbildningar till flygtekniker
+1143,525da,1143,Utbildningar till flygtekniker
+1144,525db,1144,Utbildningar till marintekniker
+1145,525db,1145,Utbildningar till marintekniker
+1146,525db,1146,Utbildningar till marintekniker
+1147,526xr,1147,Utbildningar till kvalitetsutvecklare
+1148,526xr,1148,Utbildningar till kvalitetsutvecklare
+1149,526xy,1149,Övriga utbildningar industriell ekonomi och organisation
+1150,526xy,1150,Övriga utbildningar industriell ekonomi och organisation
+1151,527xy,1151,Övriga utbildningar inom miljöteknik och miljökontroll
+1152,541xa,1152,Utbildningar till bryggeritekniker
+1153,541xy,1153,Övriga utbildningar i tillverkning och hantering av livsmedel
+1154,541xy,1154,Övriga utbildningar i tillverkning och hantering av livsmedel
+1155,542ca,1155,Utbildningar inom konfektionsteknik
+1156,542ca,1156,Utbildningar inom konfektionsteknik
+1157,542cb,1157,Utbildningar till skräddare
+1158,542cy,1158,Övriga utbildningar i tillverkning av textilier och konfektion
+1159,542da,1159,Utbildningar till sadelmakare
+1160,543ca,1160,"Utbildningar till trätekniker, industriell"
+1161,543cb,1161,"Utbildningar till trätekniker, hantverk"
+1162,543cb,1162,"Utbildningar till trätekniker, hantverk"
+1163,543cb,1163,"Utbildningar till trätekniker, hantverk"
+1164,543cc,1164,Utbildningar till musikinstrumentmakare
+1165,543fy,1165,Övriga utbildningar tillverkning av plast- och gummiprodukter
+1166,543fy,1166,Övriga utbildningar tillverkning av plast- och gummiprodukter
+1167,543fy,1167,Övriga utbildningar tillverkning av plast- och gummiprodukter
+1168,543xa,1168,Utbildningar till tapetserare
+1169,544ca,1169,Utbildningar med inriktning mot gruvindustrin
+1170,544ca,1170,Utbildningar med inriktning mot gruvindustrin
+1171,840aa,1171,"Utbildningar inom logistik, spedition och transport"
+1172,840aa,1172,"Utbildningar inom logistik, spedition och transport"
+1173,840ba,1173,Utbildningar till lokförare
+1174,840ba,1174,Utbildningar till lokförare
+1175,840ba,1175,Utbildningar till lokförare
+1176,840ba,1176,Utbildningar till lokförare
+1177,840ca,1177,Utbildningar till skeppare
+1178,840cy,1178,Övriga utbildningar sjöfart
+1179,840da,1179,Utbildningar till trafikflygare
+1180,840da,1180,Utbildningar till trafikflygare
+1181,840da,1181,Utbildningar till trafikflygare
+1182,840dd,1182,Utbildningar till helikopterpilot
+1183,840dy,1183,Övriga utbildningar luftfart
+1184,840dy,1184,Övriga utbildningar luftfart
+1185,,1185,
+1186,,1186,
+1187,,1187,
+1188,,1188,
+1189,,1189,
+1190,,1190,
+1191,,1191,
+1192,,1192,
+1193,,1193,
+1194,,1194,
+1195,,1195,
+1196,,1196,
+1197,,1197,
+1198,,1198,
+1199,,1199,
+1200,,1200,
+1201,,1201,
+1202,,1202,
+1203,,1203,
+1204,,1204,
+1205,,1205,
+1206,,1206,
+1207,,1207,
+1208,,1208,
+1209,,1209,
+1210,,1210,
+1211,,1211,
+1212,,1212,
+1213,,1213,
+1214,,1214,
+1215,,1215,
+1216,,1216,
+1217,,1217,
+1218,,1218,
+1219,,1219,
+1220,,1220,
+1221,,1221,
+1222,,1222,
+1223,,1223,
+1224,,1224,
+1225,,1225,
+1226,,1226,
+1227,,1227,
+1228,,1228,
+1229,,1229,
+1230,,1230,
+1231,,1231,
+1232,,1232,
+1233,,1233,
+1234,,1234,
+1235,,1235,
+1236,,1236,
+1237,,1237,
+1238,,1238,
+1239,,1239,
+1240,,1240,
+1241,,1241,
+1242,,1242,
+1243,,1243,
+1244,,1244,
+1245,,1245,
+1246,,1246,
+1247,,1247,
+1248,,1248,
+1249,,1249,
+1250,,1250,
+1251,,1251,
+1252,,1252,
+1253,,1253,
+1254,,1254,
+1255,,1255,
+1256,,1256,
+1257,,1257,
+1258,,1258,
+1259,,1259,
+1260,,1260,
+1261,,1261,
+1262,,1262,
+1263,,1263,
+1264,,1264,
+1265,,1265,
+1266,,1266,
+1267,,1267,
+1268,,1268,
+1269,,1269,
+1270,,1270,
+1271,,1271,
+1272,,1272,
+1273,,1273,
+1274,,1274,
+1275,,1275,
+1276,,1276,
+1277,,1277,
+1278,,1278,
+1279,,1279,
+1280,,1280,
+1281,,1281,
+1282,,1282,
+1283,,1283,
+1284,,1284,
+1285,,1285,
+1286,,1286,
+1287,,1287,
+1288,,1288,
+1289,,1289,
+1290,,1290,
+1291,,1291,
+1292,,1292,
+1293,,1293,
+1294,,1294,
+1295,,1295,
+1296,,1296,
+1297,,1297,
+1298,,1298,
+1299,,1299,
+1300,,1300,
+1301,,1301,
+1302,,1302,
+1303,,1303,
+1304,,1304,
+1305,,1305,
+1306,,1306,
+1307,,1307,
+1308,,1308,
+1309,,1309,
+1310,,1310,
+1311,,1311,
+1312,,1312,
+1313,,1313,
+1314,,1314,
+1315,,1315,
+1316,,1316,
+1317,,1317,
+1318,,1318,
+1319,,1319,
+1320,,1320,
+1321,,1321,
+1322,,1322,
+1323,,1323,
+1324,,1324,
+1325,,1325,
+1326,,1326,
+1327,,1327,
+1328,,1328,
+1329,,1329,
+1330,,1330,
+1331,,1331,
+1332,,1332,
+1333,,1333,
+1334,,1334,
+1335,,1335,
+1336,,1336,
+1337,,1337,
+1338,,1338,
+1339,,1339,
+1340,,1340,
+1341,,1341,
+1342,,1342,
+1343,,1343,
+1344,,1344,
+1345,,1345,
+1346,,1346,
+1347,,1347,
+1348,,1348,
+1349,,1349,
+1350,,1350,
+1351,,1351,
+1352,,1352,
+1353,,1353,
+1354,,1354,
+1355,,1355,
+1356,,1356,
+1357,,1357,
+1358,,1358,
+1359,,1359,
+1360,,1360,
+1361,,1361,
+1362,,1362,
+1363,,1363,
+1364,,1364,
+1365,,1365,
+1366,,1366,
+1367,,1367,
+1368,,1368,
+1369,,1369,
+1370,,1370,
+1371,,1371,
+1372,,1372,
+1373,,1373,
+1374,,1374,
+1375,,1375,
+1376,,1376,
+1377,,1377,
+1378,,1378,
+1379,,1379,
+1380,,1380,
+1381,,1381,
+1382,,1382,
+1383,,1383,
+1384,,1384,
+1385,,1385,
+1386,,1386,
+1387,,1387,
+1388,,1388,
+1389,,1389,
+1390,,1390,
+1391,,1391,
+1392,,1392,
+1393,,1393,
+1394,,1394,
+1395,,1395,
+1396,,1396,
+1397,,1397,
+1398,,1398,
+1399,,1399,
+1400,,1400,
+1401,,1401,
+1402,,1402,
+1403,,1403,
+1404,,1404,
+1405,,1405,
+1406,,1406,
+1407,,1407,
+1408,,1408,
+1409,,1409,
+1410,,1410,
+1411,,1411,
+1412,,1412,
+1413,,1413,
+1414,,1414,
+1415,,1415,
+1416,,1416,
+1417,,1417,
+1418,,1418,
+1419,,1419,
+1420,,1420,
+1421,,1421,
+1422,,1422,
+1423,,1423,
+1424,,1424,
+1425,,1425,
+1426,,1426,
+1427,,1427,
+1428,,1428,
+1429,,1429,
+1430,,1430,
+1431,,1431,
+1432,,1432,
+1433,,1433,
+1434,,1434,
+1435,,1435,
+1436,,1436,
+1437,,1437,
+1438,,1438,
+1439,,1439,
+1440,,1440,
+1441,,1441,
+1442,,1442,
+1443,,1443,
+1444,,1444,
+1445,,1445,
+1446,,1446,
+1447,,1447,
+1448,,1448,
+1449,,1449,
+1450,,1450,
+1451,,1451,
+1452,,1452,
+1453,,1453,
+1454,,1454,
+1455,,1455,
+1456,,1456,
+1457,,1457,
+1458,,1458,
+1459,,1459,
+1460,,1460,
+1461,,1461,
+1462,,1462,
+1463,,1463,
+1464,,1464,
+1465,,1465,
+1466,,1466,
+1467,,1467,
+1468,,1468,
+1469,,1469,
+1470,,1470,
+1471,,1471,
+1472,,1472,
+1473,,1473,
+1474,,1474,
+1475,,1475,
+1476,,1476,
+1477,,1477,
+1478,,1478,
+1479,,1479,
+1480,,1480,
+1481,,1481,
+1482,,1482,
+1483,,1483,
+1484,,1484,
+1485,,1485,
+1486,,1486,
+1487,,1487,
+1488,,1488,
+1489,,1489,
+1490,,1490,
+1491,,1491,
+1492,,1492,
+1493,,1493,
+1494,,1494,
+1495,,1495,
+1496,,1496,
+1497,,1497,
+1498,,1498,
+1499,,1499,
+1500,,1500,
+1501,,1501,
+1502,,1502,
+1503,,1503,
+1504,,1504,
+1505,,1505,
+1506,,1506,
+1507,,1507,
+1508,,1508,
+1509,,1509,
+1510,,1510,
+1511,,1511,
+1512,,1512,
+1513,,1513,
+1514,,1514,
+1515,,1515,
+1516,,1516,
+1517,,1517,
+1518,,1518,
+1519,,1519,
+1520,,1520,
+1521,,1521,
+1522,,1522,
+1523,,1523,
+1524,,1524,
+1525,,1525,
+1526,,1526,
+1527,,1527,
+1528,,1528,
+1529,,1529,
+1530,,1530,
+1531,,1531,
+1532,,1532,
+1533,,1533,
+1534,,1534,
+1535,,1535,
+1536,,1536,
+1537,,1537,
+1538,,1538,
+1539,,1539,
+1540,,1540,
+1541,,1541,
+1542,,1542,
+1543,,1543,
+1544,,1544,
+1545,,1545,
+1546,,1546,
+1547,,1547,
+1548,,1548,
+1549,,1549,
+1550,,1550,
+1551,,1551,
+1552,,1552,
+1553,,1553,
+1554,,1554,
+1555,,1555,
+1556,,1556,
+1557,,1557,
+1558,,1558,
+1559,,1559,
+1560,,1560,
+1561,,1561,
+1562,,1562,
+1563,,1563,
+1564,,1564,
+1565,,1565,
+1566,,1566,
+1567,,1567,
+1568,,1568,
+1569,,1569,
+1570,,1570,
+1571,,1571,
+1572,,1572,
+1573,,1573,
+1574,,1574,
+1575,,1575,
+1576,,1576,
+1577,,1577,
+1578,,1578,
+1579,,1579,
+1580,,1580,
+1581,,1581,
+1582,,1582,
+1583,,1583,
+1584,,1584,
+1585,,1585,
+1586,,1586,
+1587,,1587,
+1588,,1588,
+1589,,1589,
+1590,,1590,
+1591,,1591,
+1592,,1592,
+1593,,1593,
+1594,,1594,
+1595,,1595,
+1596,,1596,
+1597,,1597,
+1598,,1598,
+1599,,1599,
+1600,,1600,
+1601,,1601,
+1602,,1602,
+1603,,1603,
+1604,,1604,
+1605,,1605,
+1606,,1606,
+1607,,1607,
+1608,,1608,
+1609,,1609,
+1610,,1610,
+1611,,1611,
+1612,,1612,
+1613,,1613,
+1614,,1614,
+1615,,1615,
+1616,,1616,
+1617,,1617,
+1618,,1618,
+1619,,1619,
+1620,,1620,
+1621,,1621,
+1622,,1622,
+1623,,1623,
+1624,,1624,
+1625,,1625,
+1626,,1626,
+1627,,1627,
+1628,,1628,
+1629,,1629,
+1630,,1630,
+1631,,1631,
+1632,,1632,
+1633,,1633,
+1634,,1634,
+1635,,1635,
+1636,,1636,
+1637,,1637,
+1638,,1638,
+1639,,1639,
+1640,,1640,
+1641,,1641,
+1642,,1642,
+1643,,1643,
+1644,,1644,
+1645,,1645,
+1646,,1646,
+1647,,1647,
+1648,,1648,
+1649,,1649,
+1650,,1650,
+1651,,1651,
+1652,,1652,
+1653,,1653,
+1654,,1654,
+1655,,1655,
+1656,,1656,
+1657,,1657,
+1658,,1658,
+1659,,1659,
+1660,,1660,
+1661,,1661,
+1662,,1662,
+1663,,1663,
+1664,,1664,
+1665,,1665,
+1666,,1666,
+1667,,1667,
+1668,,1668,
+1669,,1669,
+1670,,1670,
+1671,,1671,
+1672,,1672,
+1673,,1673,
+1674,,1674,
+1675,,1675,
+1676,,1676,
+1677,,1677,
+1678,,1678,
+1679,,1679,
+1680,,1680,
+1681,,1681,
+1682,,1682,
+1683,,1683,
+1684,,1684,
+1685,,1685,
+1686,,1686,
+1687,,1687,
+1688,,1688,
+1689,,1689,
+1690,,1690,
+1691,,1691,
+1692,,1692,
+1693,,1693,
+1694,,1694,
+1695,,1695,
+1696,,1696,
+1697,,1697,
+1698,,1698,
+1699,,1699,
+1700,,1700,
+1701,,1701,
+1702,,1702,
+1703,,1703,
+1704,,1704,
+1705,,1705,
+1706,,1706,
+1707,,1707,
+1708,,1708,
+1709,,1709,
+1710,,1710,
+1711,,1711,
+1712,,1712,
+1713,,1713,
+1714,,1714,
+1715,,1715,
+1716,,1716,
+1717,,1717,
+1718,,1718,
+1719,,1719,
+1720,,1720,
+1721,,1721,
+1722,,1722,
+1723,,1723,
+1724,,1724,
+1725,,1725,
+1726,,1726,
+1727,,1727,
+1728,,1728,
+1729,,1729,
+1730,,1730,
+1731,,1731,
+1732,,1732,
+1733,,1733,
+1734,,1734,
+1735,,1735,
+1736,,1736,
+1737,,1737,
+1738,,1738,
+1739,,1739,
+1740,,1740,
+1741,,1741,
+1742,,1742,
+1743,,1743,
+1744,,1744,
+1745,,1745,
+1746,,1746,
+1747,,1747,
+1748,,1748,
+1749,,1749,
+1750,,1750,
+1751,,1751,
+1752,,1752,
+1753,,1753,
+1754,,1754,
+1755,,1755,
+1756,,1756,
+1757,,1757,
+1758,,1758,
+1759,,1759,
+1760,,1760,
+1761,,1761,
+1762,,1762,
+1763,,1763,
+1764,,1764,
+1765,,1765,
+1766,,1766,
+1767,,1767,
+1768,,1768,
+1769,,1769,
+1770,,1770,
+1771,,1771,
+1772,,1772,
+1773,,1773,
+1774,,1774,
+1775,,1775,
+1776,,1776,
+1777,,1777,
+1778,,1778,
+1779,,1779,
+1780,,1780,
+1781,,1781,
+1782,,1782,
+1783,,1783,
+1784,,1784,
+1785,,1785,
+1786,,1786,
+1787,,1787,
+1788,,1788,
+1789,,1789,
+1790,,1790,
+1791,,1791,
+1792,,1792,
+1793,,1793,
+1794,,1794,
+1795,,1795,
+1796,,1796,
+1797,,1797,
+1798,,1798,
+1799,,1799,
+1800,,1800,
+1801,,1801,
+1802,,1802,
+1803,,1803,
+1804,,1804,
+1805,,1805,
+1806,,1806,
+1807,,1807,
+1808,,1808,
+1809,,1809,
+1810,,1810,
+1811,,1811,
+1812,,1812,
+1813,,1813,
+1814,,1814,
+1815,,1815,
+1816,,1816,
+1817,,1817,
+1818,,1818,
+1819,,1819,
+1820,,1820,
+1821,,1821,
+1822,,1822,
+1823,,1823,
+1824,,1824,
+1825,,1825,
+1826,,1826,
+1827,,1827,
+1828,,1828,
+1829,,1829,
+1830,,1830,
+1831,,1831,
+1832,,1832,
+1833,,1833,
+1834,,1834,
+1835,,1835,
+1836,,1836,
+1837,,1837,
+1838,,1838,
+1839,,1839,
+1840,,1840,
+1841,,1841,
+1842,,1842,
+1843,,1843,
+1844,,1844,
+1845,,1845,
+1846,,1846,
+1847,,1847,
+1848,,1848,
+1849,,1849,
+1850,,1850,
+1851,,1851,
+1852,,1852,
+1853,,1853,
+1854,,1854,
+1855,,1855,
+1856,,1856,
+1857,,1857,
+1858,,1858,
+1859,,1859,
+1860,,1860,
+1861,,1861,
+1862,,1862,
+1863,,1863,
+1864,,1864,
+1865,,1865,
+1866,,1866,
+1867,,1867,
+1868,,1868,
+1869,,1869,
+1870,,1870,
+1871,,1871,
+1872,,1872,
+1873,,1873,
+1874,,1874,
+1875,,1875,
+1876,,1876,
+1877,,1877,
+1878,,1878,
+1879,,1879,
+1880,,1880,
+1881,,1881,
+1882,,1882,
+1883,,1883,
+1884,,1884,
+1885,,1885,
+1886,,1886,
+1887,,1887,
+1888,,1888,
+1889,,1889,
+1890,,1890,
+1891,,1891,
+1892,,1892,
+1893,,1893,
+1894,,1894,
+1895,,1895,
+1896,,1896,
+1897,,1897,
+1898,,1898,
+1899,,1899,
+1900,,1900,
+1901,,1901,
+1902,,1902,
+1903,,1903,
+1904,,1904,
+1905,,1905,
+1906,,1906,
+1907,,1907,
+1908,,1908,
+1909,,1909,
+1910,,1910,
+1911,,1911,
+1912,,1912,
+1913,,1913,
+1914,,1914,
+1915,,1915,
+1916,,1916,
+1917,,1917,
+1918,,1918,
+1919,,1919,
+1920,,1920,
+1921,,1921,
+1922,,1922,
+1923,,1923,
+1924,,1924,
+1925,,1925,
+1926,,1926,
+1927,,1927,
+1928,,1928,
+1929,,1929,
+1930,,1930,
+1931,,1931,
+1932,,1932,
+1933,,1933,
+1934,,1934,
+1935,,1935,
+1936,,1936,
+1937,,1937,
+1938,,1938,
+1939,,1939,
+1940,,1940,
+1941,,1941,
+1942,,1942,
+1943,,1943,
+1944,,1944,
+1945,,1945,
+1946,,1946,
+1947,,1947,
+1948,,1948,
+1949,,1949,
+1950,,1950,
+1951,,1951,
+1952,,1952,
+1953,,1953,
+1954,,1954,
+1955,,1955,
+1956,,1956,
+1957,,1957,
+1958,,1958,
+1959,,1959,
+1960,,1960,
+1961,,1961,
+1962,,1962,
+1963,,1963,
+1964,,1964,
+1965,,1965,
+1966,,1966,
+1967,,1967,
+1968,,1968,
+1969,,1969,
+1970,,1970,
+1971,,1971,
+1972,,1972,
+1973,,1973,
+1974,,1974,
+1975,,1975,
+1976,,1976,
+1977,,1977,
+1978,,1978,
+1979,,1979,
+1980,,1980,
+1981,,1981,
+1982,,1982,
+1983,,1983,
+1984,,1984,
+1985,,1985,
+1986,,1986,
+1987,,1987,
+1988,,1988,
+1989,,1989,
+1990,,1990,
+1991,,1991,
+1992,,1992,
+1993,,1993,
+1994,,1994,
+1995,,1995,
+1996,,1996,
+1997,,1997,
+1998,,1998,
+1999,,1999,
+2000,,2000,
