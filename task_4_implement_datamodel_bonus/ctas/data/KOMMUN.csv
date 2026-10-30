@@ -1,0 +1,1185 @@
+KOMMUN_ID,KOMMUN,LAN_ID
+1,Stockholm,1
+2,Göteborg,2
+3,Malmö,3
+4,Stockholm,4
+5,Flera kommuner,5
+6,Solna,6
+7,Göteborg,7
+8,Stockholm,8
+9,Stockholm,9
+10,Malmö,10
+11,Stockholm,11
+12,Göteborg,12
+13,Solna,13
+14,Gävle,14
+15,Varberg,15
+16,Stockholm,16
+17,Malmö,17
+18,Malmö,18
+19,Göteborg,19
+20,Stockholm,20
+21,Göteborg,21
+22,Skellefteå,22
+23,Örebro,23
+24,Göteborg,24
+25,Flera kommuner,25
+26,Göteborg,26
+27,Solna,27
+28,Linköping,28
+29,Göteborg,29
+30,Linköping,30
+31,Stockholm,31
+32,Göteborg,32
+33,Stockholm,33
+34,Örebro,34
+35,Göteborg,35
+36,Göteborg,36
+37,Flera kommuner,37
+38,Flera kommuner,38
+39,Stockholm,39
+40,Flera kommuner,40
+41,Stockholm,41
+42,Flera kommuner,42
+43,Stockholm,43
+44,Jönköping,44
+45,Göteborg,45
+46,Malmö,46
+47,Göteborg,47
+48,Västerås,48
+49,Göteborg,49
+50,Göteborg,50
+51,Göteborg,51
+52,Linköping,52
+53,Karlskrona,53
+54,Solna,54
+55,Stockholm,55
+56,Flera kommuner,56
+57,Stockholm,57
+58,Solna,58
+59,Flera kommuner,59
+60,Flera kommuner,60
+61,Malmö,61
+62,Göteborg,62
+63,Göteborg,63
+64,Linköping,64
+65,Västerås,65
+66,Växjö,66
+67,Flera kommuner,67
+68,Stockholm,68
+69,Stockholm,69
+70,Göteborg,70
+71,Flera kommuner,71
+72,Flera kommuner,72
+73,Flera kommuner,73
+74,Stockholm,74
+75,Stockholm,75
+76,Malmö,76
+77,Stockholm,77
+78,Helsingborg,78
+79,Flera kommuner,79
+80,Stockholm,80
+81,Malmö,81
+82,Stockholm,82
+83,Flera kommuner,83
+84,Flera kommuner,84
+85,Solna,85
+86,Göteborg,86
+87,Helsingborg,87
+88,Halmstad,88
+89,Flera kommuner,89
+90,Flera kommuner,90
+91,Stockholm,91
+92,Stockholm,92
+93,Malmö,93
+94,Göteborg,94
+95,Stockholm,95
+96,Flera kommuner,96
+97,Flera kommuner,97
+98,Solna,98
+99,Malmö,99
+100,Umeå,100
+101,Flera kommuner,101
+102,Stockholm,102
+103,Göteborg,103
+104,Göteborg,104
+105,Flera kommuner,105
+106,Malmö,106
+107,Solna,107
+108,Malmö,108
+109,Malmö,109
+110,Stockholm,110
+111,Stockholm,111
+112,Örebro,112
+113,Flera kommuner,113
+114,Stockholm,114
+115,Malmö,115
+116,Stockholm,116
+117,Flera kommuner,117
+118,Stockholm,118
+119,Flera kommuner,119
+120,Göteborg,120
+121,Flera kommuner,121
+122,Flera kommuner,122
+123,Linköping,123
+124,Stockholm,124
+125,Stockholm,125
+126,Örebro,126
+127,Göteborg,127
+128,Linköping,128
+129,Malmö,129
+130,Stockholm,130
+131,Flera kommuner,131
+132,Stockholm,132
+133,Stockholm,133
+134,Stockholm,134
+135,Stockholm,135
+136,Skellefteå,136
+137,Stockholm,137
+138,Stockholm,138
+139,Göteborg,139
+140,Stockholm,140
+141,Göteborg,141
+142,Malmö,142
+143,Flera kommuner,143
+144,Stockholm,144
+145,Stockholm,145
+146,Göteborg,146
+147,Malmö,147
+148,Stockholm,148
+149,Stockholm,149
+150,Stockholm,150
+151,Flera kommuner,151
+152,Stockholm,152
+153,Malmö,153
+154,Nynäshamn,154
+155,Göteborg,155
+156,Stockholm,156
+157,Solna,157
+158,Stockholm,158
+159,Luleå,159
+160,Stockholm,160
+161,Stockholm,161
+162,Gävle,162
+163,Flera kommuner,163
+164,Stockholm,164
+165,Stockholm,165
+166,Malmö,166
+167,Flera kommuner,167
+168,Stockholm,168
+169,Flera kommuner,169
+170,Göteborg,170
+171,Stockholm,171
+172,Stockholm,172
+173,Stockholm,173
+174,Örebro,174
+175,Stockholm,175
+176,Luleå,176
+177,Stockholm,177
+178,Halmstad,178
+179,Flera kommuner,179
+180,Stockholm,180
+181,Botkyrka,181
+182,Malmö,182
+183,Flera kommuner,183
+184,Stockholm,184
+185,Malmö,185
+186,Flera kommuner,186
+187,Mölndal,187
+188,Jönköping,188
+189,Stockholm,189
+190,Varberg,190
+191,Malmö,191
+192,Stockholm,192
+193,Göteborg,193
+194,Norrköping,194
+195,Stockholm,195
+196,Stockholm,196
+197,Göteborg,197
+198,Kalmar,198
+199,Stockholm,199
+200,Flera kommuner,200
+201,Flera kommuner,201
+202,Flera kommuner,202
+203,Ljungby,203
+204,Stockholm,204
+205,Göteborg,205
+206,Borlänge,206
+207,Flera kommuner,207
+208,Malmö,208
+209,Göteborg,209
+210,Flera kommuner,210
+211,Arboga,211
+212,Stockholm,212
+213,Flera kommuner,213
+214,Solna,214
+215,Sunne,215
+216,Malmö,216
+217,Flera kommuner,217
+218,Stockholm,218
+219,Göteborg,219
+220,Stockholm,220
+221,Flera kommuner,221
+222,Skellefteå,222
+223,Flera kommuner,223
+224,Stockholm,224
+225,Stockholm,225
+226,Stockholm,226
+227,Stockholm,227
+228,Stockholm,228
+229,Flera kommuner,229
+230,Vänersborg,230
+231,Lund,231
+232,Malmö,232
+233,Stockholm,233
+234,Flera kommuner,234
+235,Malmö,235
+236,Malmö,236
+237,Flera kommuner,237
+238,Norrköping,238
+239,Flera kommuner,239
+240,Flera kommuner,240
+241,Flera kommuner,241
+242,Flera kommuner,242
+243,Stockholm,243
+244,Nynäshamn,244
+245,Stockholm,245
+246,Göteborg,246
+247,Stockholm,247
+248,Göteborg,248
+249,Stockholm,249
+250,Göteborg,250
+251,Helsingborg,251
+252,Flera kommuner,252
+253,Malmö,253
+254,Stockholm,254
+255,Göteborg,255
+256,Flera kommuner,256
+257,Stockholm,257
+258,Malmö,258
+259,Göteborg,259
+260,Stockholm,260
+261,Göteborg,261
+262,Linköping,262
+263,Skellefteå,263
+264,Göteborg,264
+265,Göteborg,265
+266,Flera kommuner,266
+267,Karlskrona,267
+268,Göteborg,268
+269,Flera kommuner,269
+270,Stockholm,270
+271,Flera kommuner,271
+272,Lidköping,272
+273,Göteborg,273
+274,Malmö,274
+275,Göteborg,275
+276,Stockholm,276
+277,Stockholm,277
+278,Flera kommuner,278
+279,Malmö,279
+280,Göteborg,280
+281,Helsingborg,281
+282,Jönköping,282
+283,Stockholm,283
+284,Stockholm,284
+285,Stockholm,285
+286,Göteborg,286
+287,Västerås,287
+288,Flera kommuner,288
+289,Flera kommuner,289
+290,Flera kommuner,290
+291,Flera kommuner,291
+292,Botkyrka,292
+293,Stockholm,293
+294,Malmö,294
+295,Stockholm,295
+296,Stockholm,296
+297,Flera kommuner,297
+298,Solna,298
+299,Göteborg,299
+300,Stockholm,300
+301,Botkyrka,301
+302,Stockholm,302
+303,Hammarö,303
+304,Stockholm,304
+305,Göteborg,305
+306,Stockholm,306
+307,Malmö,307
+308,Stockholm,308
+309,Stockholm,309
+310,Stockholm,310
+311,Stockholm,311
+312,Malmö,312
+313,Stockholm,313
+314,Göteborg,314
+315,Stockholm,315
+316,Göteborg,316
+317,Stockholm,317
+318,Linköping,318
+319,Borås,319
+320,Malmö,320
+321,Norrköping,321
+322,Ljungby,322
+323,Göteborg,323
+324,Flera kommuner,324
+325,Göteborg,325
+326,Stockholm,326
+327,Oskarshamn,327
+328,Göteborg,328
+329,Jönköping,329
+330,Linköping,330
+331,Gävle,331
+332,Göteborg,332
+333,Malmö,333
+334,Stockholm,334
+335,Helsingborg,335
+336,Flera kommuner,336
+337,Östersund,337
+338,Skellefteå,338
+339,Stockholm,339
+340,Eslöv,340
+341,Stockholm,341
+342,Västerås,342
+343,Borlänge,343
+344,Eskilstuna,344
+345,Västerås,345
+346,Skellefteå,346
+347,Eslöv,347
+348,Flera kommuner,348
+349,Flera kommuner,349
+350,Stockholm,350
+351,Stockholm,351
+352,Västerås,352
+353,Flera kommuner,353
+354,Flera kommuner,354
+355,Stockholm,355
+356,Göteborg,356
+357,Stockholm,357
+358,Stockholm,358
+359,Stockholm,359
+360,Flera kommuner,360
+361,Stockholm,361
+362,Stockholm,362
+363,Göteborg,363
+364,Flera kommuner,364
+365,Flera kommuner,365
+366,Stockholm,366
+367,Stockholm,367
+368,Malmö,368
+369,Göteborg,369
+370,Stockholm,370
+371,Stockholm,371
+372,Stockholm,372
+373,Flera kommuner,373
+374,Flera kommuner,374
+375,Upplands-Bro,375
+376,Stockholm,376
+377,Stockholm,377
+378,Flera kommuner,378
+379,Tranås,379
+380,Stockholm,380
+381,Göteborg,381
+382,Flera kommuner,382
+383,Ängelholm,383
+384,Stockholm,384
+385,Flera kommuner,385
+386,Östersund,386
+387,Stockholm,387
+388,Flera kommuner,388
+389,Stockholm,389
+390,Göteborg,390
+391,Stockholm,391
+392,Stockholm,392
+393,Göteborg,393
+394,Flera kommuner,394
+395,Flera kommuner,395
+396,Skellefteå,396
+397,Flera kommuner,397
+398,Stockholm,398
+399,Malmö,399
+400,Stockholm,400
+401,Flera kommuner,401
+402,Flera kommuner,402
+403,Linköping,403
+404,Helsingborg,404
+405,Flera kommuner,405
+406,Flera kommuner,406
+407,Flera kommuner,407
+408,Härryda,408
+409,Göteborg,409
+410,Östersund,410
+411,Stockholm,411
+412,Flera kommuner,412
+413,Umeå,413
+414,Flera kommuner,414
+415,Malmö,415
+416,Borås,416
+417,Kramfors,417
+418,Uppsala,418
+419,Växjö,419
+420,Jönköping,420
+421,Flera kommuner,421
+422,Flera kommuner,422
+423,Botkyrka,423
+424,Göteborg,424
+425,Malmö,425
+426,Flera kommuner,426
+427,Härryda,427
+428,Flera kommuner,428
+429,Flera kommuner,429
+430,Jönköping,430
+431,Flera kommuner,431
+432,Luleå,432
+433,Karlshamn,433
+434,Göteborg,434
+435,Umeå,435
+436,Norrköping,436
+437,Flera kommuner,437
+438,Malmö,438
+439,Stockholm,439
+440,Göteborg,440
+441,Helsingborg,441
+442,Flera kommuner,442
+443,Stockholm,443
+444,Varberg,444
+445,Göteborg,445
+446,Gävle,446
+447,Stockholm,447
+448,Helsingborg,448
+449,Flera kommuner,449
+450,Örebro,450
+451,Skellefteå,451
+452,Södertälje,452
+453,Sundsvall,453
+454,Malmö,454
+455,Göteborg,455
+456,Stockholm,456
+457,Göteborg,457
+458,Uddevalla,458
+459,Flera kommuner,459
+460,Solna,460
+461,Trollhättan,461
+462,Kalmar,462
+463,Nacka,463
+464,Landskrona,464
+465,Stockholm,465
+466,Linköping,466
+467,Boden,467
+468,Stockholm,468
+469,Göteborg,469
+470,Malmö,470
+471,Flera kommuner,471
+472,Göteborg,472
+473,Göteborg,473
+474,Stockholm,474
+475,Göteborg,475
+476,Göteborg,476
+477,Olofström,477
+478,Stockholm,478
+479,Göteborg,479
+480,Malmö,480
+481,Stockholm,481
+482,Göteborg,482
+483,Landskrona,483
+484,Göteborg,484
+485,Stockholm,485
+486,Stockholm,486
+487,Forshaga,487
+488,Stockholm,488
+489,Malung,489
+490,Åre,490
+491,Flera kommuner,491
+492,Flera kommuner,492
+493,Flera kommuner,493
+494,Göteborg,494
+495,Norrköping,495
+496,Kalmar,496
+497,Båstad,497
+498,Värmdö,498
+499,Mullsjö,499
+500,Skövde,500
+501,Södertälje,501
+502,Flera kommuner,502
+503,Växjö,503
+504,Stockholm,504
+505,Växjö,505
+506,Växjö,506
+507,Vänersborg,507
+508,Göteborg,508
+509,Flera kommuner,509
+510,Vänersborg,510
+511,Flera kommuner,511
+512,Linköping,512
+513,Kramfors,513
+514,Flera kommuner,514
+515,Flera kommuner,515
+516,Flera kommuner,516
+517,Södertälje,517
+518,Uppsala,518
+519,Flera kommuner,519
+520,Flera kommuner,520
+521,Västerås,521
+522,Malmö,522
+523,Stockholm,523
+524,Mölndal,524
+525,Flera kommuner,525
+526,Flera kommuner,526
+527,Mölndal,527
+528,Vänersborg,528
+529,Flera kommuner,529
+530,Uddevalla,530
+531,Flera kommuner,531
+532,Eslöv,532
+533,Flera kommuner,533
+534,Södertälje,534
+535,Göteborg,535
+536,Flera kommuner,536
+537,Östersund,537
+538,Flera kommuner,538
+539,Nynäshamn,539
+540,Flera kommuner,540
+541,Göteborg,541
+542,Flera kommuner,542
+543,Olofström,543
+544,Flera kommuner,544
+545,Sandviken,545
+546,Uppvidinge,546
+547,Arvika,547
+548,Örebro,548
+549,Solna,549
+550,Göteborg,550
+551,Flera kommuner,551
+552,Flera kommuner,552
+553,Flera kommuner,553
+554,Sollefteå,554
+555,Flera kommuner,555
+556,Göteborg,556
+557,Uppsala,557
+558,Mölndal,558
+559,Flera kommuner,559
+560,Nynäshamn,560
+561,Stockholm,561
+562,Södertälje,562
+563,Vänersborg,563
+564,Flera kommuner,564
+565,Malmö,565
+566,Växjö,566
+567,Stockholm,567
+568,Lund,568
+569,Ängelholm,569
+570,Gävle,570
+571,Flera kommuner,571
+572,Stockholm,572
+573,Västerås,573
+574,Tranås,574
+575,Flera kommuner,575
+576,Uddevalla,576
+577,Göteborg,577
+578,Luleå,578
+579,Flera kommuner,579
+580,Flera kommuner,580
+581,Östersund,581
+582,Stockholm,582
+583,Göteborg,583
+584,Uppsala,584
+585,Göteborg,585
+586,Västerås,586
+587,Lidköping,587
+588,Flera kommuner,588
+589,Flera kommuner,589
+590,Jönköping,590
+591,Malmö,591
+592,Göteborg,592
+593,Linköping,593
+594,Göteborg,594
+595,Karlskrona,595
+596,Flera kommuner,596
+597,Stockholm,597
+598,Boden,598
+599,Flera kommuner,599
+600,Flera kommuner,600
+601,Jönköping,601
+602,Stockholm,602
+603,Malmö,603
+604,Södertälje,604
+605,Borås,605
+606,Skellefteå,606
+607,Göteborg,607
+608,Örebro,608
+609,Solna,609
+610,Flera kommuner,610
+611,Flera kommuner,611
+612,Flera kommuner,612
+613,Stockholm,613
+614,Värmdö,614
+615,Vetlanda,615
+616,Östersund,616
+617,Lidköping,617
+618,Jönköping,618
+619,Piteå,619
+620,Karlshamn,620
+621,Örebro,621
+622,Borlänge,622
+623,Forshaga,623
+624,Forshaga,624
+625,Västerås,625
+626,Göteborg,626
+627,Flera kommuner,627
+628,Flera kommuner,628
+629,Flera kommuner,629
+630,Flera kommuner,630
+631,Solna,631
+632,Stockholm,632
+633,Flera kommuner,633
+634,Malmö,634
+635,Göteborg,635
+636,Boden,636
+637,Mullsjö,637
+638,Uppsala,638
+639,Stockholm,639
+640,Jönköping,640
+641,Jönköping,641
+642,Trollhättan,642
+643,Västervik,643
+644,Stockholm,644
+645,Umeå,645
+646,Trollhättan,646
+647,Stockholm,647
+648,Trollhättan,648
+649,Stockholm,649
+650,Stockholm,650
+651,Borås,651
+652,Stockholm,652
+653,Stockholm,653
+654,Stockholm,654
+655,Göteborg,655
+656,Stockholm,656
+657,Göteborg,657
+658,Stockholm,658
+659,Boden,659
+660,Malmö,660
+661,Stockholm,661
+662,Norrköping,662
+663,Skellefteå,663
+664,Stockholm,664
+665,Göteborg,665
+666,Stockholm,666
+667,Stockholm,667
+668,Malmö,668
+669,Norrköping,669
+670,Skellefteå,670
+671,Solna,671
+672,Stockholm,672
+673,Norrköping,673
+674,Skellefteå,674
+675,Linköping,675
+676,Stockholm,676
+677,Malmö,677
+678,Stockholm,678
+679,Stockholm,679
+680,Stockholm,680
+681,Stockholm,681
+682,Boden,682
+683,Stockholm,683
+684,Borås,684
+685,Malmö,685
+686,Sunne,686
+687,Falkenberg,687
+688,Umeå,688
+689,Flera kommuner,689
+690,Flera kommuner,690
+691,Linköping,691
+692,Rättvik,692
+693,Lund,693
+694,Skara,694
+695,Emmaboda,695
+696,Skara,696
+697,Lund,697
+698,Linköping,698
+699,Sigtuna,699
+700,Nyköping,700
+701,Umeå,701
+702,Skara,702
+703,Skara,703
+704,Skellefteå,704
+705,Kramfors,705
+706,Sigtuna,706
+707,Flera kommuner,707
+708,Båstad,708
+709,Mariestad,709
+710,Göteborg,710
+711,Mariestad,711
+712,Göteborg,712
+713,Göteborg,713
+714,Göteborg,714
+715,Stockholm,715
+716,Flera kommuner,716
+717,Stockholm,717
+718,Båstad,718
+719,Uppsala,719
+720,Ronneby,720
+721,Göteborg,721
+722,Stockholm,722
+723,Mölndal,723
+724,Södertälje,724
+725,Stockholm,725
+726,Stockholm,726
+727,Ljusdal,727
+728,Flera kommuner,728
+729,Svenljunga,729
+730,Flera kommuner,730
+731,Linköping,731
+732,Katrineholm,732
+733,Helsingborg,733
+734,Stockholm,734
+735,Uppsala,735
+736,Nyköping,736
+737,Borlänge,737
+738,Stockholm,738
+739,Mölndal,739
+740,Stockholm,740
+741,Flera kommuner,741
+742,Hallstahammar,742
+743,Stockholm,743
+744,Flera kommuner,744
+745,Norrköping,745
+746,Västerås,746
+747,Stockholm,747
+748,Stockholm,748
+749,Flera kommuner,749
+750,Gävle,750
+751,Flera kommuner,751
+752,Flera kommuner,752
+753,Flera kommuner,753
+754,Örnsköldsvik,754
+755,Jönköping,755
+756,Jönköping,756
+757,Flera kommuner,757
+758,Stockholm,758
+759,Solna,759
+760,Solna,760
+761,Malmö,761
+762,Halmstad,762
+763,Flera kommuner,763
+764,Solna,764
+765,Varberg,765
+766,Flera kommuner,766
+767,Flera kommuner,767
+768,Flera kommuner,768
+769,Flera kommuner,769
+770,Flera kommuner,770
+771,Flera kommuner,771
+772,Göteborg,772
+773,Flera kommuner,773
+774,Malmö,774
+775,Stockholm,775
+776,Flera kommuner,776
+777,Lidköping,777
+778,Stockholm,778
+779,Kristianstad,779
+780,Göteborg,780
+781,Göteborg,781
+782,Flera kommuner,782
+783,Sundsvall,783
+784,Flera kommuner,784
+785,Stockholm,785
+786,Västerås,786
+787,Flera kommuner,787
+788,Flera kommuner,788
+789,Flera kommuner,789
+790,Malmö,790
+791,Flera kommuner,791
+792,Habo,792
+793,Stockholm,793
+794,Flera kommuner,794
+795,Flera kommuner,795
+796,Göteborg,796
+797,Flera kommuner,797
+798,Flera kommuner,798
+799,Flera kommuner,799
+800,Flera kommuner,800
+801,Malmö,801
+802,Stockholm,802
+803,Norrköping,803
+804,Flera kommuner,804
+805,Nyköping,805
+806,Stockholm,806
+807,Malmö,807
+808,Nässjö,808
+809,Flera kommuner,809
+810,Värmdö,810
+811,Mariestad,811
+812,Härnösand,812
+813,Luleå,813
+814,Flera kommuner,814
+815,Stockholm,815
+816,Malmö,816
+817,Katrineholm,817
+818,Katrineholm,818
+819,Flera kommuner,819
+820,Västerås,820
+821,Göteborg,821
+822,Eskilstuna,822
+823,Malmö,823
+824,Flera kommuner,824
+825,Kalmar,825
+826,Stockholm,826
+827,Göteborg,827
+828,Stockholm,828
+829,Eslöv,829
+830,Eslöv,830
+831,Flera kommuner,831
+832,Flera kommuner,832
+833,Stockholm,833
+834,Göteborg,834
+835,Stockholm,835
+836,Göteborg,836
+837,Flera kommuner,837
+838,Flera kommuner,838
+839,Flera kommuner,839
+840,Flera kommuner,840
+841,Flera kommuner,841
+842,Flera kommuner,842
+843,Flera kommuner,843
+844,Flera kommuner,844
+845,Flera kommuner,845
+846,Flera kommuner,846
+847,Flera kommuner,847
+848,Flera kommuner,848
+849,Flera kommuner,849
+850,Solna,850
+851,Flera kommuner,851
+852,Flera kommuner,852
+853,Göteborg,853
+854,Västerås,854
+855,Hässleholm,855
+856,Göteborg,856
+857,Umeå,857
+858,Flera kommuner,858
+859,Göteborg,859
+860,Flera kommuner,860
+861,Stockholm,861
+862,Göteborg,862
+863,Flera kommuner,863
+864,Stockholm,864
+865,Stockholm,865
+866,Lidköping,866
+867,Flera kommuner,867
+868,Flera kommuner,868
+869,Göteborg,869
+870,Solna,870
+871,Flera kommuner,871
+872,Jönköping,872
+873,Flera kommuner,873
+874,Växjö,874
+875,Flera kommuner,875
+876,Malmö,876
+877,Arvika,877
+878,Örebro,878
+879,Flera kommuner,879
+880,Göteborg,880
+881,Jönköping,881
+882,Flera kommuner,882
+883,Flera kommuner,883
+884,Göteborg,884
+885,Flera kommuner,885
+886,Flera kommuner,886
+887,Karlskrona,887
+888,Flera kommuner,888
+889,Flera kommuner,889
+890,Malmö,890
+891,Flera kommuner,891
+892,Jönköping,892
+893,Stockholm,893
+894,Sundsvall,894
+895,Norrköping,895
+896,Uppsala,896
+897,Göteborg,897
+898,Göteborg,898
+899,Malmö,899
+900,Hässleholm,900
+901,Botkyrka,901
+902,Göteborg,902
+903,Hässleholm,903
+904,Malmö,904
+905,Stockholm,905
+906,Sundsvall,906
+907,Göteborg,907
+908,Flera kommuner,908
+909,Malmö,909
+910,Flera kommuner,910
+911,Malmö,911
+912,Flera kommuner,912
+913,Göteborg,913
+914,Stockholm,914
+915,Malmö,915
+916,Flera kommuner,916
+917,Stockholm,917
+918,Göteborg,918
+919,Flera kommuner,919
+920,Göteborg,920
+921,Malmö,921
+922,Göteborg,922
+923,Skellefteå,923
+924,Flera kommuner,924
+925,Flera kommuner,925
+926,Flera kommuner,926
+927,Solna,927
+928,Flera kommuner,928
+929,Södertälje,929
+930,Göteborg,930
+931,Flera kommuner,931
+932,Karlstad,932
+933,Flera kommuner,933
+934,Härryda,934
+935,Flera kommuner,935
+936,Stockholm,936
+937,Göteborg,937
+938,Botkyrka,938
+939,Helsingborg,939
+940,Linköping,940
+941,Flera kommuner,941
+942,Linköping,942
+943,Malmö,943
+944,Vänersborg,944
+945,Göteborg,945
+946,Flera kommuner,946
+947,Trollhättan,947
+948,Karlskrona,948
+949,Kristianstad,949
+950,Flera kommuner,950
+951,Flera kommuner,951
+952,Flera kommuner,952
+953,Stockholm,953
+954,Örebro,954
+955,Karlstad,955
+956,Karlstad,956
+957,Norrköping,957
+958,Trollhättan,958
+959,Skellefteå,959
+960,Jönköping,960
+961,Göteborg,961
+962,Malmö,962
+963,Örebro,963
+964,Växjö,964
+965,Flera kommuner,965
+966,Flera kommuner,966
+967,Flera kommuner,967
+968,Linköping,968
+969,Flera kommuner,969
+970,Flera kommuner,970
+971,Mölndal,971
+972,Göteborg,972
+973,Flera kommuner,973
+974,Göteborg,974
+975,Trollhättan,975
+976,Luleå,976
+977,Karlshamn,977
+978,Flera kommuner,978
+979,Älmhult,979
+980,Flera kommuner,980
+981,Flera kommuner,981
+982,Örnsköldsvik,982
+983,Flera kommuner,983
+984,Flera kommuner,984
+985,Jönköping,985
+986,Flera kommuner,986
+987,Flera kommuner,987
+988,Flera kommuner,988
+989,Ljungby,989
+990,Flera kommuner,990
+991,Örebro,991
+992,Skellefteå,992
+993,Flera kommuner,993
+994,Karlstad,994
+995,Karlskrona,995
+996,Karlstad,996
+997,Göteborg,997
+998,Eslöv,998
+999,Lidköping,999
+1000,Flera kommuner,1000
+1001,Göteborg,1001
+1002,Uppsala,1002
+1003,Flera kommuner,1003
+1004,Kristianstad,1004
+1005,Göteborg,1005
+1006,Flera kommuner,1006
+1007,Falkenberg,1007
+1008,Göteborg,1008
+1009,Flera kommuner,1009
+1010,Flera kommuner,1010
+1011,Göteborg,1011
+1012,Västerås,1012
+1013,Flera kommuner,1013
+1014,Habo,1014
+1015,Jönköping,1015
+1016,Flera kommuner,1016
+1017,Västerås,1017
+1018,Jönköping,1018
+1019,Flera kommuner,1019
+1020,Habo,1020
+1021,Malmö,1021
+1022,Karlstad,1022
+1023,Hässleholm,1023
+1024,Växjö,1024
+1025,Skellefteå,1025
+1026,Jönköping,1026
+1027,Flera kommuner,1027
+1028,Flera kommuner,1028
+1029,Trollhättan,1029
+1030,Flera kommuner,1030
+1031,Flera kommuner,1031
+1032,Nyköping,1032
+1033,Helsingborg,1033
+1034,Flera kommuner,1034
+1035,Göteborg,1035
+1036,Flera kommuner,1036
+1037,Stockholm,1037
+1038,Hässleholm,1038
+1039,Helsingborg,1039
+1040,Göteborg,1040
+1041,Skellefteå,1041
+1042,Linköping,1042
+1043,Örebro,1043
+1044,Flera kommuner,1044
+1045,Nyköping,1045
+1046,Gävle,1046
+1047,Nässjö,1047
+1048,Nyköping,1048
+1049,Luleå,1049
+1050,Orsa,1050
+1051,Nässjö,1051
+1052,Flera kommuner,1052
+1053,Jönköping,1053
+1054,Nyköping,1054
+1055,Habo,1055
+1056,Varberg,1056
+1057,Flera kommuner,1057
+1058,Södertälje,1058
+1059,Flera kommuner,1059
+1060,Norrköping,1060
+1061,Härnösand,1061
+1062,Göteborg,1062
+1063,Skellefteå,1063
+1064,Malmö,1064
+1065,Örebro,1065
+1066,Gävle,1066
+1067,Flera kommuner,1067
+1068,Flera kommuner,1068
+1069,Hässleholm,1069
+1070,Flera kommuner,1070
+1071,Malmö,1071
+1072,Östersund,1072
+1073,Stockholm,1073
+1074,Markaryd,1074
+1075,Varberg,1075
+1076,Stockholm,1076
+1077,Gävle,1077
+1078,Flera kommuner,1078
+1079,Flera kommuner,1079
+1080,Flera kommuner,1080
+1081,Hudiksvall,1081
+1082,Flera kommuner,1082
+1083,Göteborg,1083
+1084,Karlstad,1084
+1085,Linköping,1085
+1086,Stockholm,1086
+1087,Flera kommuner,1087
+1088,Umeå,1088
+1089,Gävle,1089
+1090,Eskilstuna,1090
+1091,Karlskrona,1091
+1092,Ängelholm,1092
+1093,Jönköping,1093
+1094,Flera kommuner,1094
+1095,Göteborg,1095
+1096,Jönköping,1096
+1097,Malmö,1097
+1098,Göteborg,1098
+1099,Västerås,1099
+1100,Malmö,1100
+1101,Sandviken,1101
+1102,Örnsköldsvik,1102
+1103,Örnsköldsvik,1103
+1104,Flera kommuner,1104
+1105,Vänersborg,1105
+1106,Stockholm,1106
+1107,Malmö,1107
+1108,Göteborg,1108
+1109,Flera kommuner,1109
+1110,Stockholm,1110
+1111,Uppsala,1111
+1112,Stockholm,1112
+1113,Örebro,1113
+1114,Stockholm,1114
+1115,Ängelholm,1115
+1116,Östersund,1116
+1117,Flera kommuner,1117
+1118,Södertälje,1118
+1119,Flera kommuner,1119
+1120,Hudiksvall,1120
+1121,Piteå,1121
+1122,Stenungsund,1122
+1123,Flera kommuner,1123
+1124,Falkenberg,1124
+1125,Flera kommuner,1125
+1126,Flera kommuner,1126
+1127,Varberg,1127
+1128,Flera kommuner,1128
+1129,Göteborg,1129
+1130,Krokom,1130
+1131,Flera kommuner,1131
+1132,Stockholm,1132
+1133,Stockholm,1133
+1134,Luleå,1134
+1135,Flera kommuner,1135
+1136,Göteborg,1136
+1137,Järfälla,1137
+1138,Västerås,1138
+1139,Flera kommuner,1139
+1140,Flera kommuner,1140
+1141,Sigtuna,1141
+1142,Göteborg,1142
+1143,Luleå,1143
+1144,Flera kommuner,1144
+1145,Stockholm,1145
+1146,Uddevalla,1146
+1147,Göteborg,1147
+1148,Stockholm,1148
+1149,Flera kommuner,1149
+1150,Stockholm,1150
+1151,Flera kommuner,1151
+1152,Flera kommuner,1152
+1153,Boden,1153
+1154,Flera kommuner,1154
+1155,Borås,1155
+1156,Göteborg,1156
+1157,Göteborg,1157
+1158,Stockholm,1158
+1159,Skara,1159
+1160,Nässjö,1160
+1161,Kramfors,1161
+1162,Tibro,1162
+1163,Kramfors,1163
+1164,Stockholm,1164
+1165,Malmö,1165
+1166,Flera kommuner,1166
+1167,Flera kommuner,1167
+1168,Kramfors,1168
+1169,Filipstad,1169
+1170,Filipstad,1170
+1171,Stockholm,1171
+1172,Klippan,1172
+1173,Nässjö,1173
+1174,Hallsberg,1174
+1175,Borlänge,1175
+1176,Göteborg,1176
+1177,Göteborg,1177
+1178,Stockholm,1178
+1179,Västerås,1179
+1180,Göteborg,1180
+1181,Skellefteå,1181
+1182,Göteborg,1182
+1183,Västerås,1183
+1184,Flera kommuner,1184

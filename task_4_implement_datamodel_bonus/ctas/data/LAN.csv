@@ -1,0 +1,1185 @@
+LAN_ID,LAN
+1,Stockholm
+2,Västra Götaland
+3,Skåne
+4,Stockholm
+5,Flera kommuner
+6,Stockholm
+7,Västra Götaland
+8,Stockholm
+9,Stockholm
+10,Skåne
+11,Stockholm
+12,Västra Götaland
+13,Stockholm
+14,Gävleborg
+15,Halland
+16,Stockholm
+17,Skåne
+18,Skåne
+19,Västra Götaland
+20,Stockholm
+21,Västra Götaland
+22,Västerbotten
+23,Örebro
+24,Västra Götaland
+25,Flera kommuner
+26,Västra Götaland
+27,Stockholm
+28,Östergötland
+29,Västra Götaland
+30,Östergötland
+31,Stockholm
+32,Västra Götaland
+33,Stockholm
+34,Örebro
+35,Västra Götaland
+36,Västra Götaland
+37,Flera kommuner
+38,Flera kommuner
+39,Stockholm
+40,Flera kommuner
+41,Stockholm
+42,Flera kommuner
+43,Stockholm
+44,Jönköping
+45,Västra Götaland
+46,Skåne
+47,Västra Götaland
+48,Västmanland
+49,Västra Götaland
+50,Västra Götaland
+51,Västra Götaland
+52,Östergötland
+53,Blekinge
+54,Stockholm
+55,Stockholm
+56,Flera kommuner
+57,Stockholm
+58,Stockholm
+59,Flera kommuner
+60,Flera kommuner
+61,Skåne
+62,Västra Götaland
+63,Västra Götaland
+64,Östergötland
+65,Västmanland
+66,Kronoberg
+67,Flera kommuner
+68,Stockholm
+69,Stockholm
+70,Västra Götaland
+71,Flera kommuner
+72,Flera kommuner
+73,Flera kommuner
+74,Stockholm
+75,Stockholm
+76,Skåne
+77,Stockholm
+78,Skåne
+79,Flera kommuner
+80,Stockholm
+81,Skåne
+82,Stockholm
+83,Flera kommuner
+84,Flera kommuner
+85,Stockholm
+86,Västra Götaland
+87,Skåne
+88,Halland
+89,Flera kommuner
+90,Flera kommuner
+91,Stockholm
+92,Stockholm
+93,Skåne
+94,Västra Götaland
+95,Stockholm
+96,Flera kommuner
+97,Flera kommuner
+98,Stockholm
+99,Skåne
+100,Västerbotten
+101,Flera kommuner
+102,Stockholm
+103,Västra Götaland
+104,Västra Götaland
+105,Flera kommuner
+106,Skåne
+107,Stockholm
+108,Skåne
+109,Skåne
+110,Stockholm
+111,Stockholm
+112,Örebro
+113,Flera kommuner
+114,Stockholm
+115,Skåne
+116,Stockholm
+117,Flera kommuner
+118,Stockholm
+119,Flera kommuner
+120,Västra Götaland
+121,Flera kommuner
+122,Flera kommuner
+123,Östergötland
+124,Stockholm
+125,Stockholm
+126,Örebro
+127,Västra Götaland
+128,Östergötland
+129,Skåne
+130,Stockholm
+131,Flera kommuner
+132,Stockholm
+133,Stockholm
+134,Stockholm
+135,Stockholm
+136,Västerbotten
+137,Stockholm
+138,Stockholm
+139,Västra Götaland
+140,Stockholm
+141,Västra Götaland
+142,Skåne
+143,Flera kommuner
+144,Stockholm
+145,Stockholm
+146,Västra Götaland
+147,Skåne
+148,Stockholm
+149,Stockholm
+150,Stockholm
+151,Flera kommuner
+152,Stockholm
+153,Skåne
+154,Stockholm
+155,Västra Götaland
+156,Stockholm
+157,Stockholm
+158,Stockholm
+159,Norrbotten
+160,Stockholm
+161,Stockholm
+162,Gävleborg
+163,Flera kommuner
+164,Stockholm
+165,Stockholm
+166,Skåne
+167,Flera kommuner
+168,Stockholm
+169,Flera kommuner
+170,Västra Götaland
+171,Stockholm
+172,Stockholm
+173,Stockholm
+174,Örebro
+175,Stockholm
+176,Norrbotten
+177,Stockholm
+178,Halland
+179,Flera kommuner
+180,Stockholm
+181,Stockholm
+182,Skåne
+183,Flera kommuner
+184,Stockholm
+185,Skåne
+186,Flera kommuner
+187,Västra Götaland
+188,Jönköping
+189,Stockholm
+190,Halland
+191,Skåne
+192,Stockholm
+193,Västra Götaland
+194,Östergötland
+195,Stockholm
+196,Stockholm
+197,Västra Götaland
+198,Kalmar
+199,Stockholm
+200,Flera kommuner
+201,Flera kommuner
+202,Flera kommuner
+203,Kronoberg
+204,Stockholm
+205,Västra Götaland
+206,Dalarna
+207,Flera kommuner
+208,Skåne
+209,Västra Götaland
+210,Flera kommuner
+211,Västmanland
+212,Stockholm
+213,Flera kommuner
+214,Stockholm
+215,Värmland
+216,Skåne
+217,Flera kommuner
+218,Stockholm
+219,Västra Götaland
+220,Stockholm
+221,Flera kommuner
+222,Västerbotten
+223,Flera kommuner
+224,Stockholm
+225,Stockholm
+226,Stockholm
+227,Stockholm
+228,Stockholm
+229,Flera kommuner
+230,Västra Götaland
+231,Skåne
+232,Skåne
+233,Stockholm
+234,Flera kommuner
+235,Skåne
+236,Skåne
+237,Flera kommuner
+238,Östergötland
+239,Flera kommuner
+240,Flera kommuner
+241,Flera kommuner
+242,Flera kommuner
+243,Stockholm
+244,Stockholm
+245,Stockholm
+246,Västra Götaland
+247,Stockholm
+248,Västra Götaland
+249,Stockholm
+250,Västra Götaland
+251,Skåne
+252,Flera kommuner
+253,Skåne
+254,Stockholm
+255,Västra Götaland
+256,Flera kommuner
+257,Stockholm
+258,Skåne
+259,Västra Götaland
+260,Stockholm
+261,Västra Götaland
+262,Östergötland
+263,Västerbotten
+264,Västra Götaland
+265,Västra Götaland
+266,Flera kommuner
+267,Blekinge
+268,Västra Götaland
+269,Flera kommuner
+270,Stockholm
+271,Flera kommuner
+272,Västra Götaland
+273,Västra Götaland
+274,Skåne
+275,Västra Götaland
+276,Stockholm
+277,Stockholm
+278,Flera kommuner
+279,Skåne
+280,Västra Götaland
+281,Skåne
+282,Jönköping
+283,Stockholm
+284,Stockholm
+285,Stockholm
+286,Västra Götaland
+287,Västmanland
+288,Flera kommuner
+289,Flera kommuner
+290,Flera kommuner
+291,Flera kommuner
+292,Stockholm
+293,Stockholm
+294,Skåne
+295,Stockholm
+296,Stockholm
+297,Flera kommuner
+298,Stockholm
+299,Västra Götaland
+300,Stockholm
+301,Stockholm
+302,Stockholm
+303,Värmland
+304,Stockholm
+305,Västra Götaland
+306,Stockholm
+307,Skåne
+308,Stockholm
+309,Stockholm
+310,Stockholm
+311,Stockholm
+312,Skåne
+313,Stockholm
+314,Västra Götaland
+315,Stockholm
+316,Västra Götaland
+317,Stockholm
+318,Östergötland
+319,Västra Götaland
+320,Skåne
+321,Östergötland
+322,Kronoberg
+323,Västra Götaland
+324,Flera kommuner
+325,Västra Götaland
+326,Stockholm
+327,Kalmar
+328,Västra Götaland
+329,Jönköping
+330,Östergötland
+331,Gävleborg
+332,Västra Götaland
+333,Skåne
+334,Stockholm
+335,Skåne
+336,Flera kommuner
+337,Jämtland
+338,Västerbotten
+339,Stockholm
+340,Skåne
+341,Stockholm
+342,Västmanland
+343,Dalarna
+344,Södermanland
+345,Västmanland
+346,Västerbotten
+347,Skåne
+348,Flera kommuner
+349,Flera kommuner
+350,Stockholm
+351,Stockholm
+352,Västmanland
+353,Flera kommuner
+354,Flera kommuner
+355,Stockholm
+356,Västra Götaland
+357,Stockholm
+358,Stockholm
+359,Stockholm
+360,Flera kommuner
+361,Stockholm
+362,Stockholm
+363,Västra Götaland
+364,Flera kommuner
+365,Flera kommuner
+366,Stockholm
+367,Stockholm
+368,Skåne
+369,Västra Götaland
+370,Stockholm
+371,Stockholm
+372,Stockholm
+373,Flera kommuner
+374,Flera kommuner
+375,Stockholm
+376,Stockholm
+377,Stockholm
+378,Flera kommuner
+379,Jönköping
+380,Stockholm
+381,Västra Götaland
+382,Flera kommuner
+383,Skåne
+384,Stockholm
+385,Flera kommuner
+386,Jämtland
+387,Stockholm
+388,Flera kommuner
+389,Stockholm
+390,Västra Götaland
+391,Stockholm
+392,Stockholm
+393,Västra Götaland
+394,Flera kommuner
+395,Flera kommuner
+396,Västerbotten
+397,Flera kommuner
+398,Stockholm
+399,Skåne
+400,Stockholm
+401,Flera kommuner
+402,Flera kommuner
+403,Östergötland
+404,Skåne
+405,Flera kommuner
+406,Flera kommuner
+407,Flera kommuner
+408,Västra Götaland
+409,Västra Götaland
+410,Jämtland
+411,Stockholm
+412,Flera kommuner
+413,Västerbotten
+414,Flera kommuner
+415,Skåne
+416,Västra Götaland
+417,Västernorrland
+418,Uppsala
+419,Kronoberg
+420,Jönköping
+421,Flera kommuner
+422,Flera kommuner
+423,Stockholm
+424,Västra Götaland
+425,Skåne
+426,Flera kommuner
+427,Västra Götaland
+428,Flera kommuner
+429,Flera kommuner
+430,Jönköping
+431,Flera kommuner
+432,Norrbotten
+433,Blekinge
+434,Västra Götaland
+435,Västerbotten
+436,Östergötland
+437,Flera kommuner
+438,Skåne
+439,Stockholm
+440,Västra Götaland
+441,Skåne
+442,Flera kommuner
+443,Stockholm
+444,Halland
+445,Västra Götaland
+446,Gävleborg
+447,Stockholm
+448,Skåne
+449,Flera kommuner
+450,Örebro
+451,Västerbotten
+452,Stockholm
+453,Västernorrland
+454,Skåne
+455,Västra Götaland
+456,Stockholm
+457,Västra Götaland
+458,Västra Götaland
+459,Flera kommuner
+460,Stockholm
+461,Västra Götaland
+462,Kalmar
+463,Stockholm
+464,Skåne
+465,Stockholm
+466,Östergötland
+467,Norrbotten
+468,Stockholm
+469,Västra Götaland
+470,Skåne
+471,Flera kommuner
+472,Västra Götaland
+473,Västra Götaland
+474,Stockholm
+475,Västra Götaland
+476,Västra Götaland
+477,Blekinge
+478,Stockholm
+479,Västra Götaland
+480,Skåne
+481,Stockholm
+482,Västra Götaland
+483,Skåne
+484,Västra Götaland
+485,Stockholm
+486,Stockholm
+487,Värmland
+488,Stockholm
+489,Dalarna
+490,Jämtland
+491,Flera kommuner
+492,Flera kommuner
+493,Flera kommuner
+494,Västra Götaland
+495,Östergötland
+496,Kalmar
+497,Skåne
+498,Stockholm
+499,Jönköping
+500,Västra Götaland
+501,Stockholm
+502,Flera kommuner
+503,Kronoberg
+504,Stockholm
+505,Kronoberg
+506,Kronoberg
+507,Västra Götaland
+508,Västra Götaland
+509,Flera kommuner
+510,Västra Götaland
+511,Flera kommuner
+512,Östergötland
+513,Västernorrland
+514,Flera kommuner
+515,Flera kommuner
+516,Flera kommuner
+517,Stockholm
+518,Uppsala
+519,Flera kommuner
+520,Flera kommuner
+521,Västmanland
+522,Skåne
+523,Stockholm
+524,Västra Götaland
+525,Flera kommuner
+526,Flera kommuner
+527,Västra Götaland
+528,Västra Götaland
+529,Flera kommuner
+530,Västra Götaland
+531,Flera kommuner
+532,Skåne
+533,Flera kommuner
+534,Stockholm
+535,Västra Götaland
+536,Flera kommuner
+537,Jämtland
+538,Flera kommuner
+539,Stockholm
+540,Flera kommuner
+541,Västra Götaland
+542,Flera kommuner
+543,Blekinge
+544,Flera kommuner
+545,Gävleborg
+546,Kronoberg
+547,Värmland
+548,Örebro
+549,Stockholm
+550,Västra Götaland
+551,Flera kommuner
+552,Flera kommuner
+553,Flera kommuner
+554,Västernorrland
+555,Flera kommuner
+556,Västra Götaland
+557,Uppsala
+558,Västra Götaland
+559,Flera kommuner
+560,Stockholm
+561,Stockholm
+562,Stockholm
+563,Västra Götaland
+564,Flera kommuner
+565,Skåne
+566,Kronoberg
+567,Stockholm
+568,Skåne
+569,Skåne
+570,Gävleborg
+571,Flera kommuner
+572,Stockholm
+573,Västmanland
+574,Jönköping
+575,Flera kommuner
+576,Västra Götaland
+577,Västra Götaland
+578,Norrbotten
+579,Flera kommuner
+580,Flera kommuner
+581,Jämtland
+582,Stockholm
+583,Västra Götaland
+584,Uppsala
+585,Västra Götaland
+586,Västmanland
+587,Västra Götaland
+588,Flera kommuner
+589,Flera kommuner
+590,Jönköping
+591,Skåne
+592,Västra Götaland
+593,Östergötland
+594,Västra Götaland
+595,Blekinge
+596,Flera kommuner
+597,Stockholm
+598,Norrbotten
+599,Flera kommuner
+600,Flera kommuner
+601,Jönköping
+602,Stockholm
+603,Skåne
+604,Stockholm
+605,Västra Götaland
+606,Västerbotten
+607,Västra Götaland
+608,Örebro
+609,Stockholm
+610,Flera kommuner
+611,Flera kommuner
+612,Flera kommuner
+613,Stockholm
+614,Stockholm
+615,Jönköping
+616,Jämtland
+617,Västra Götaland
+618,Jönköping
+619,Norrbotten
+620,Blekinge
+621,Örebro
+622,Dalarna
+623,Värmland
+624,Värmland
+625,Västmanland
+626,Västra Götaland
+627,Flera kommuner
+628,Flera kommuner
+629,Flera kommuner
+630,Flera kommuner
+631,Stockholm
+632,Stockholm
+633,Flera kommuner
+634,Skåne
+635,Västra Götaland
+636,Norrbotten
+637,Jönköping
+638,Uppsala
+639,Stockholm
+640,Jönköping
+641,Jönköping
+642,Västra Götaland
+643,Kalmar
+644,Stockholm
+645,Västerbotten
+646,Västra Götaland
+647,Stockholm
+648,Västra Götaland
+649,Stockholm
+650,Stockholm
+651,Västra Götaland
+652,Stockholm
+653,Stockholm
+654,Stockholm
+655,Västra Götaland
+656,Stockholm
+657,Västra Götaland
+658,Stockholm
+659,Norrbotten
+660,Skåne
+661,Stockholm
+662,Östergötland
+663,Västerbotten
+664,Stockholm
+665,Västra Götaland
+666,Stockholm
+667,Stockholm
+668,Skåne
+669,Östergötland
+670,Västerbotten
+671,Stockholm
+672,Stockholm
+673,Östergötland
+674,Västerbotten
+675,Östergötland
+676,Stockholm
+677,Skåne
+678,Stockholm
+679,Stockholm
+680,Stockholm
+681,Stockholm
+682,Norrbotten
+683,Stockholm
+684,Västra Götaland
+685,Skåne
+686,Värmland
+687,Halland
+688,Västerbotten
+689,Flera kommuner
+690,Flera kommuner
+691,Östergötland
+692,Dalarna
+693,Skåne
+694,Västra Götaland
+695,Kalmar
+696,Västra Götaland
+697,Skåne
+698,Östergötland
+699,Stockholm
+700,Södermanland
+701,Västerbotten
+702,Västra Götaland
+703,Västra Götaland
+704,Västerbotten
+705,Västernorrland
+706,Stockholm
+707,Flera kommuner
+708,Skåne
+709,Västra Götaland
+710,Västra Götaland
+711,Västra Götaland
+712,Västra Götaland
+713,Västra Götaland
+714,Västra Götaland
+715,Stockholm
+716,Flera kommuner
+717,Stockholm
+718,Skåne
+719,Uppsala
+720,Blekinge
+721,Västra Götaland
+722,Stockholm
+723,Västra Götaland
+724,Stockholm
+725,Stockholm
+726,Stockholm
+727,Gävleborg
+728,Flera kommuner
+729,Västra Götaland
+730,Flera kommuner
+731,Östergötland
+732,Södermanland
+733,Skåne
+734,Stockholm
+735,Uppsala
+736,Södermanland
+737,Dalarna
+738,Stockholm
+739,Västra Götaland
+740,Stockholm
+741,Flera kommuner
+742,Västmanland
+743,Stockholm
+744,Flera kommuner
+745,Östergötland
+746,Västmanland
+747,Stockholm
+748,Stockholm
+749,Flera kommuner
+750,Gävleborg
+751,Flera kommuner
+752,Flera kommuner
+753,Flera kommuner
+754,Västernorrland
+755,Jönköping
+756,Jönköping
+757,Flera kommuner
+758,Stockholm
+759,Stockholm
+760,Stockholm
+761,Skåne
+762,Halland
+763,Flera kommuner
+764,Stockholm
+765,Halland
+766,Flera kommuner
+767,Flera kommuner
+768,Flera kommuner
+769,Flera kommuner
+770,Flera kommuner
+771,Flera kommuner
+772,Västra Götaland
+773,Flera kommuner
+774,Skåne
+775,Stockholm
+776,Flera kommuner
+777,Västra Götaland
+778,Stockholm
+779,Skåne
+780,Västra Götaland
+781,Västra Götaland
+782,Flera kommuner
+783,Västernorrland
+784,Flera kommuner
+785,Stockholm
+786,Västmanland
+787,Flera kommuner
+788,Flera kommuner
+789,Flera kommuner
+790,Skåne
+791,Flera kommuner
+792,Jönköping
+793,Stockholm
+794,Flera kommuner
+795,Flera kommuner
+796,Västra Götaland
+797,Flera kommuner
+798,Flera kommuner
+799,Flera kommuner
+800,Flera kommuner
+801,Skåne
+802,Stockholm
+803,Östergötland
+804,Flera kommuner
+805,Södermanland
+806,Stockholm
+807,Skåne
+808,Jönköping
+809,Flera kommuner
+810,Stockholm
+811,Västra Götaland
+812,Västernorrland
+813,Norrbotten
+814,Flera kommuner
+815,Stockholm
+816,Skåne
+817,Södermanland
+818,Södermanland
+819,Flera kommuner
+820,Västmanland
+821,Västra Götaland
+822,Södermanland
+823,Skåne
+824,Flera kommuner
+825,Kalmar
+826,Stockholm
+827,Västra Götaland
+828,Stockholm
+829,Skåne
+830,Skåne
+831,Flera kommuner
+832,Flera kommuner
+833,Stockholm
+834,Västra Götaland
+835,Stockholm
+836,Västra Götaland
+837,Flera kommuner
+838,Flera kommuner
+839,Flera kommuner
+840,Flera kommuner
+841,Flera kommuner
+842,Flera kommuner
+843,Flera kommuner
+844,Flera kommuner
+845,Flera kommuner
+846,Flera kommuner
+847,Flera kommuner
+848,Flera kommuner
+849,Flera kommuner
+850,Stockholm
+851,Flera kommuner
+852,Flera kommuner
+853,Västra Götaland
+854,Västmanland
+855,Skåne
+856,Västra Götaland
+857,Västerbotten
+858,Flera kommuner
+859,Västra Götaland
+860,Flera kommuner
+861,Stockholm
+862,Västra Götaland
+863,Flera kommuner
+864,Stockholm
+865,Stockholm
+866,Västra Götaland
+867,Flera kommuner
+868,Flera kommuner
+869,Västra Götaland
+870,Stockholm
+871,Flera kommuner
+872,Jönköping
+873,Flera kommuner
+874,Kronoberg
+875,Flera kommuner
+876,Skåne
+877,Värmland
+878,Örebro
+879,Flera kommuner
+880,Västra Götaland
+881,Jönköping
+882,Flera kommuner
+883,Flera kommuner
+884,Västra Götaland
+885,Flera kommuner
+886,Flera kommuner
+887,Blekinge
+888,Flera kommuner
+889,Flera kommuner
+890,Skåne
+891,Flera kommuner
+892,Jönköping
+893,Stockholm
+894,Västernorrland
+895,Östergötland
+896,Uppsala
+897,Västra Götaland
+898,Västra Götaland
+899,Skåne
+900,Skåne
+901,Stockholm
+902,Västra Götaland
+903,Skåne
+904,Skåne
+905,Stockholm
+906,Västernorrland
+907,Västra Götaland
+908,Flera kommuner
+909,Skåne
+910,Flera kommuner
+911,Skåne
+912,Flera kommuner
+913,Västra Götaland
+914,Stockholm
+915,Skåne
+916,Flera kommuner
+917,Stockholm
+918,Västra Götaland
+919,Flera kommuner
+920,Västra Götaland
+921,Skåne
+922,Västra Götaland
+923,Västerbotten
+924,Flera kommuner
+925,Flera kommuner
+926,Flera kommuner
+927,Stockholm
+928,Flera kommuner
+929,Stockholm
+930,Västra Götaland
+931,Flera kommuner
+932,Värmland
+933,Flera kommuner
+934,Västra Götaland
+935,Flera kommuner
+936,Stockholm
+937,Västra Götaland
+938,Stockholm
+939,Skåne
+940,Östergötland
+941,Flera kommuner
+942,Östergötland
+943,Skåne
+944,Västra Götaland
+945,Västra Götaland
+946,Flera kommuner
+947,Västra Götaland
+948,Blekinge
+949,Skåne
+950,Flera kommuner
+951,Flera kommuner
+952,Flera kommuner
+953,Stockholm
+954,Örebro
+955,Värmland
+956,Värmland
+957,Östergötland
+958,Västra Götaland
+959,Västerbotten
+960,Jönköping
+961,Västra Götaland
+962,Skåne
+963,Örebro
+964,Kronoberg
+965,Flera kommuner
+966,Flera kommuner
+967,Flera kommuner
+968,Östergötland
+969,Flera kommuner
+970,Flera kommuner
+971,Västra Götaland
+972,Västra Götaland
+973,Flera kommuner
+974,Västra Götaland
+975,Västra Götaland
+976,Norrbotten
+977,Blekinge
+978,Flera kommuner
+979,Kronoberg
+980,Flera kommuner
+981,Flera kommuner
+982,Västernorrland
+983,Flera kommuner
+984,Flera kommuner
+985,Jönköping
+986,Flera kommuner
+987,Flera kommuner
+988,Flera kommuner
+989,Kronoberg
+990,Flera kommuner
+991,Örebro
+992,Västerbotten
+993,Flera kommuner
+994,Värmland
+995,Blekinge
+996,Värmland
+997,Västra Götaland
+998,Skåne
+999,Västra Götaland
+1000,Flera kommuner
+1001,Västra Götaland
+1002,Uppsala
+1003,Flera kommuner
+1004,Skåne
+1005,Västra Götaland
+1006,Flera kommuner
+1007,Halland
+1008,Västra Götaland
+1009,Flera kommuner
+1010,Flera kommuner
+1011,Västra Götaland
+1012,Västmanland
+1013,Flera kommuner
+1014,Jönköping
+1015,Jönköping
+1016,Flera kommuner
+1017,Västmanland
+1018,Jönköping
+1019,Flera kommuner
+1020,Jönköping
+1021,Skåne
+1022,Värmland
+1023,Skåne
+1024,Kronoberg
+1025,Västerbotten
+1026,Jönköping
+1027,Flera kommuner
+1028,Flera kommuner
+1029,Västra Götaland
+1030,Flera kommuner
+1031,Flera kommuner
+1032,Södermanland
+1033,Skåne
+1034,Flera kommuner
+1035,Västra Götaland
+1036,Flera kommuner
+1037,Stockholm
+1038,Skåne
+1039,Skåne
+1040,Västra Götaland
+1041,Västerbotten
+1042,Östergötland
+1043,Örebro
+1044,Flera kommuner
+1045,Södermanland
+1046,Gävleborg
+1047,Jönköping
+1048,Södermanland
+1049,Norrbotten
+1050,Dalarna
+1051,Jönköping
+1052,Flera kommuner
+1053,Jönköping
+1054,Södermanland
+1055,Jönköping
+1056,Halland
+1057,Flera kommuner
+1058,Stockholm
+1059,Flera kommuner
+1060,Östergötland
+1061,Västernorrland
+1062,Västra Götaland
+1063,Västerbotten
+1064,Skåne
+1065,Örebro
+1066,Gävleborg
+1067,Flera kommuner
+1068,Flera kommuner
+1069,Skåne
+1070,Flera kommuner
+1071,Skåne
+1072,Jämtland
+1073,Stockholm
+1074,Kronoberg
+1075,Halland
+1076,Stockholm
+1077,Gävleborg
+1078,Flera kommuner
+1079,Flera kommuner
+1080,Flera kommuner
+1081,Gävleborg
+1082,Flera kommuner
+1083,Västra Götaland
+1084,Värmland
+1085,Östergötland
+1086,Stockholm
+1087,Flera kommuner
+1088,Västerbotten
+1089,Gävleborg
+1090,Södermanland
+1091,Blekinge
+1092,Skåne
+1093,Jönköping
+1094,Flera kommuner
+1095,Västra Götaland
+1096,Jönköping
+1097,Skåne
+1098,Västra Götaland
+1099,Västmanland
+1100,Skåne
+1101,Gävleborg
+1102,Västernorrland
+1103,Västernorrland
+1104,Flera kommuner
+1105,Västra Götaland
+1106,Stockholm
+1107,Skåne
+1108,Västra Götaland
+1109,Flera kommuner
+1110,Stockholm
+1111,Uppsala
+1112,Stockholm
+1113,Örebro
+1114,Stockholm
+1115,Skåne
+1116,Jämtland
+1117,Flera kommuner
+1118,Stockholm
+1119,Flera kommuner
+1120,Gävleborg
+1121,Norrbotten
+1122,Västra Götaland
+1123,Flera kommuner
+1124,Halland
+1125,Flera kommuner
+1126,Flera kommuner
+1127,Halland
+1128,Flera kommuner
+1129,Västra Götaland
+1130,Jämtland
+1131,Flera kommuner
+1132,Stockholm
+1133,Stockholm
+1134,Norrbotten
+1135,Flera kommuner
+1136,Västra Götaland
+1137,Stockholm
+1138,Västmanland
+1139,Flera kommuner
+1140,Flera kommuner
+1141,Stockholm
+1142,Västra Götaland
+1143,Norrbotten
+1144,Flera kommuner
+1145,Stockholm
+1146,Västra Götaland
+1147,Västra Götaland
+1148,Stockholm
+1149,Flera kommuner
+1150,Stockholm
+1151,Flera kommuner
+1152,Flera kommuner
+1153,Norrbotten
+1154,Flera kommuner
+1155,Västra Götaland
+1156,Västra Götaland
+1157,Västra Götaland
+1158,Stockholm
+1159,Västra Götaland
+1160,Jönköping
+1161,Västernorrland
+1162,Västra Götaland
+1163,Västernorrland
+1164,Stockholm
+1165,Skåne
+1166,Flera kommuner
+1167,Flera kommuner
+1168,Västernorrland
+1169,Värmland
+1170,Värmland
+1171,Stockholm
+1172,Skåne
+1173,Jönköping
+1174,Örebro
+1175,Dalarna
+1176,Västra Götaland
+1177,Västra Götaland
+1178,Stockholm
+1179,Västmanland
+1180,Västra Götaland
+1181,Västerbotten
+1182,Västra Götaland
+1183,Västmanland
+1184,Flera kommuner
