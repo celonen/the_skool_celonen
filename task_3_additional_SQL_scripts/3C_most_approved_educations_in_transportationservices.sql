@@ -2,8 +2,14 @@ SET PAGESIZE 1500
 DESC system.results_col3;
 
 SELECT
-	SUN5_INRIKTNING AS SUN5_code,
-	SUN5_INRIKTNING_NAMN AS SUN5_specialization,
+	DIARIENUMMER AS reference_id,
+	UTBILDNINGSNAMN AS education,
+	SMALT_YRKESOMRADE AS narrow_occupation,
+	STUDIEFORM AS studyform,
+	UTBILDNINGSANORDNARE_ADMINISTR AS education_provider,
+	HUVUDMANNATYP AS type,
+	KOMMUN AS municipality,
+	BEVILJADE_UTBILDNINGSOMGANGAR AS approved_rounds,
 	COUNT(*) AS applications,
 	SUM(CASE WHEN Beslut = 'Beviljad'
 		THEN 1 ELSE 0 END) AS approved,
@@ -12,15 +18,20 @@ SELECT
 	ROUND(
 	100 * SUM(CASE WHEN Beslut = 'Beviljad'
 		THEN 1 ELSE 0 END) / COUNT(*), 2
-	) || '%' AS approvals_in_percentages
+	) || '%' AS approvals_percentages
 FROM results_col3
-WHERE (UTBILDNINGSOMRADE LIKE '%Transporttj_nster%')
+WHERE (SUN5_INRIKTNING = '840aa'
+	OR SUN5_INRIKTNING LIKE '%840cy%')
 GROUP BY
-	SUN5_INRIKTNING,
-	SUN5_INRIKTNING_NAMN
-ORDER BY (ROUND(
-	100 * SUM(CASE WHEN Beslut = 'Beviljad'
-		THEN 1 ELSE 0 END) / COUNT(*), 2
-	)) DESC;
+	DIARIENUMMER,
+	UTBILDNINGSNAMN,
+	SMALT_YRKESOMRADE,
+	STUDIEFORM,
+	UTBILDNINGSANORDNARE_ADMINISTR,
+	HUVUDMANNATYP,
+	KOMMUN,
+	BEVILJADE_UTBILDNINGSOMGANGAR
+ORDER BY approved_rounds DESC, approvals_percentages DESC;
 
 EXIT
+

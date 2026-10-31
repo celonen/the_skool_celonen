@@ -1,7 +1,6 @@
 SET PAGESIZE 1500
 DESC system.results_col3;
 
-
 SELECT LAN AS county,
         SUM(BEVILJADE_PLATSER_UTBILDNINGSO) +
         SUM(BEVILJADE_PLATSER_UTBILDNINGS2) +
@@ -13,6 +12,5 @@ WHERE LAN <> 'Flera kommuner'
 GROUP BY LAN
 ORDER BY approved_applications DESC
 FETCH FIRST 5 ROWS ONLY;
-
 
 EXIT

@@ -1,7 +1,6 @@
 SET PAGESIZE 1500
 DESC system.results_col3;
 
-
 SELECT
     r1.utbildningsomrade AS educationarea,
     SUM(CASE
@@ -30,7 +29,6 @@ GROUP BY
     r1.utbildningsomrade
 ORDER BY
     r1.utbildningsomrade DESC;
-
 
 EXIT
 

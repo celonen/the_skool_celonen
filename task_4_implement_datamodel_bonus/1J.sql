@@ -1,4 +1,4 @@
-SELECT 
+SELECT
 	c.UTBILDNINGSOMRADE AS educationarea,
 	b.SUN5_INRIKTNING_NAMN AS specialization,
 	a.UTBILDNINGSNAMN AS education,
@@ -9,10 +9,10 @@ SELECT
 	a.BEVILJADE_PLATSER_TOTALT AS approved_spots,
 	e.ANORDNARE AS education_provider,
  	g.KOMMUN AS municipality,
-	h.LAN AS county, 
+	h.LAN AS county,
 	f.DIARIENUMMER AS reference_id,
 	d.SEQF,
-	a.SMALT_YRKE AS narrow_occupation		
+	a.SMALT_YRKE AS narrow_occupation
 FROM ANSOKAN a
 	JOIN SUN5_INRIKTNING b ON b.SUN5_ID = a.SUN5_ID
 	JOIN UTBILDNINGSOMRADE c ON c.UTBILDNINGSOMRADE_ID = b.UTBILDNINGSOMRADE_ID
