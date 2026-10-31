@@ -1,7 +1,6 @@
 SET PAGESIZE 1500
 DESC system.results_col3;
 
-
 SELECT
 	SUN5_INRIKTNING AS SUN5_code,
 	SUN5_INRIKTNING_NAMN AS SUN5_specialization,
@@ -13,14 +12,16 @@ SELECT
 	ROUND(
 	100 * SUM(CASE WHEN Beslut = 'Beviljad'
 		THEN 1 ELSE 0 END) / COUNT(*), 2
-	) AS approvals_in_percentages
+	) || '%' AS approvals_in_percentages
 FROM results_col3
 WHERE utbildningsomrade = 'Data/IT'
 	AND Beslut IN ('Beviljad', 'Avslag')
 GROUP BY
 	SUN5_INRIKTNING,
 	SUN5_INRIKTNING_NAMN
-ORDER BY approvals_in_percentages DESC;
-
+ORDER BY (ROUND(
+	100 * SUM(CASE WHEN Beslut = 'Beviljad'
+		THEN 1 ELSE 0 END) / COUNT(*), 2
+	)) DESC;
 
 EXIT
