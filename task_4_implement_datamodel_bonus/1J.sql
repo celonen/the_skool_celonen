@@ -1,3 +1,5 @@
+SET PAGESIZE 1500
+
 SELECT
 	c.UTBILDNINGSOMRADE AS educationarea,
 	b.SUN5_INRIKTNING_NAMN AS specialization,
