@@ -108,14 +108,14 @@ EXIT
 ![SQL script 1D](1D_sql_script.PNG)
 
 
-If you want to view the amount of rejected applications per educationtitle within DATA/IT, type the following code inside another SQL script:
+If you want to view the amount of rejected applications per education title within DATA/IT, type the following code inside another SQL script:
 
 ```
 SET PAGESIZE 1500
 DESC system.results_col3;
 
 SELECT
-	UTBILDNINGSNAMN AS title,
+	UTBILDNINGSNAMN AS education_title,
 	(SUM(SOKTA_PLATSER_TOTALT)) -
        SUM(BEVILJADE_PLATSER_UTBILDNINGSO) +
        SUM(BEVILJADE_PLATSER_UTBILDNINGS2) +
@@ -135,14 +135,14 @@ EXIT
 ![SQL script 1E](1E_sql_script.PNG)
 
 
-If you want to view the amount of approved applications per school and education within DATA/IT, type the following code inside another SQL script:
+If you want to view the amount of approved applications per education provider and education title within DATA/IT, type the following code inside another SQL script:
 
 ```
 SET PAGESIZE 1500
 DESC system.results_col3;
 
 SELECT UTBILDNINGSANORDNARE_ADMINISTR AS education_provider,
-	UTBILDNINGSNAMN AS education,
+	UTBILDNINGSNAMN AS education_title,
         SUM(BEVILJADE_PLATSER_UTBILDNINGSO) +
         SUM(BEVILJADE_PLATSER_UTBILDNINGS2) +
         SUM(BEVILJADE_PLATSER_UTBILDNINGS3) +
