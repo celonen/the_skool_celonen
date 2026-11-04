@@ -26,7 +26,6 @@ SELECT table_name, column_name, data_type, data_length
 FROM USER_TAB_COLUMNS
 WHERE table_name = 'SEQF'
 
-
 SELECT table_name, column_name, data_type, data_length
 FROM USER_TAB_COLUMNS
 WHERE table_name = 'UTBILDNINGSOMRADE'

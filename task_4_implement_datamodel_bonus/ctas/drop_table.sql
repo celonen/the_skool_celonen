@@ -1,3 +1,0 @@
-DROP TABLE LAN;
-
-EXIT
